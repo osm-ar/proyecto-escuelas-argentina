@@ -1,0 +1,1131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.56641799211592,
+          -33.897554465256
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060222400",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº6 Juan Bautista Alberdi",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº6 JUAN BAUTISTA ALBERDI",
+        "ref:cue": "060222400",
+        "ref:cui_dgcye": "608100737",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060222400",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "AVDA ROCHA (E/ZEBALLOS Y SAN JUAN) 698",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.897554465256%2C-60.56641799211592%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.897554465256;-60.56641799211592;17&R",
+        "_distancia_sede_m": 384,
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.56538339121869,
+          -33.89577187600064
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060803600",
+        "amenity": "school",
+        "name": "Escuela Hogar de Jesus (Primario)",
+        "official_name": "ESCUELA HOGAR DE JESUS",
+        "ref:cue": "060803600",
+        "ref:cui_dgcye": "608101179",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060803600",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "HIPOLITO IRIGOYEN E/ ROCHA Y LORENZO MORENO 29",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89577187600064%2C-60.56538339121869%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89577187600064;-60.56538339121869;17&R",
+        "_distancia_sede_m": 515,
+        "isced:level": "1",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.56538339121869,
+          -33.89577187600064
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061585000",
+        "amenity": "school",
+        "name": "Escuela Hogar de Jesus (Jardín Maternal / Jardín de Infantes)",
+        "official_name": "ESCUELA HOGAR DE JESUS",
+        "ref:cue": "061585000",
+        "ref:cui_dgcye": "608101179",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061585000",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "ROCHA 480",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89577187600064%2C-60.56538339121869%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89577187600064;-60.56538339121869;17&R",
+        "_distancia_sede_m": 515,
+        "isced:level": "0",
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.55812375753535,
+          -33.90083370861426
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060147502",
+        "amenity": "school",
+        "name": "Centro de Adultos Nº704/01",
+        "official_name": "CENTRO DE ADULTOS Nº704/01",
+        "ref:cue": "060147502",
+        "ref:cui_dgcye": "608100054",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060147502",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "M. ZEBALLOS E/COLOMBIA Y ANNAN 941",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº18",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.90083370861426%2C-60.55812375753535%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.90083370861426;-60.55812375753535;17&R",
+        "_distancia_sede_m": 522,
+        "isced:level": "1",
+        "_nivel_oferta": "Primario Adultos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.55812375753535,
+          -33.90083370861426
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061980000",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº18",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº18",
+        "ref:cue": "061980000",
+        "ref:cui_dgcye": "608100054",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061980000",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "COLOMBIA 760",
+        "_comparte_edificio_con": "CENTRO DE ADULTOS Nº704/01",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.90083370861426%2C-60.55812375753535%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.90083370861426;-60.55812375753535;17&R",
+        "_distancia_sede_m": 522,
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.56853395645576,
+          -33.89746602202416
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062270800",
+        "amenity": "school",
+        "name": "Colegio Santa Clara de Asis",
+        "official_name": "COLEGIO SANTA CLARA DE ASIS",
+        "ref:cue": "062270800",
+        "ref:cui_dgcye": "608101216",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062270800",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "AZCUENAGA 761",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89746602202416%2C-60.56853395645576%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89746602202416;-60.56853395645576;17&R",
+        "_distancia_sede_m": 537,
+        "isced:level": "1;2",
+        "_nivel_oferta": "Primario Especial / Secundario Especial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.569241517522855,
+          -33.896080445305664
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062344500",
+        "amenity": "school",
+        "name": "Virgen del Rosario",
+        "official_name": "VIRGEN DEL ROSARIO",
+        "ref:cue": "062344500",
+        "ref:cui_dgcye": "608101200",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062344500",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "BARTOLOMÉ MITRE 202",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.896080445305664%2C-60.569241517522855%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.896080445305664;-60.569241517522855;17&R",
+        "_distancia_sede_m": 684,
+        "isced:level": "0",
+        "_nivel_oferta": "Jardín Maternal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.555797968251994,
+          -33.89689180553295
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060804000",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº908 Federico Froebel",
+        "official_name": "JARDÍN DE INFANTES Nº908 FEDERICO FROEBEL",
+        "ref:cue": "060804000",
+        "ref:cui_dgcye": "608100335",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060804000",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "VENEZUELA 141",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89689180553295%2C-60.555797968251994%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89689180553295;-60.555797968251994;17&R",
+        "_distancia_sede_m": 819,
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.56960142853412,
+          -33.9057655007202
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061514100",
+        "amenity": "college",
+        "name": "Centro de Formación Integral Nº 1 Héroes de Malvinas",
+        "official_name": "CENTRO DE FORMACIÓN INTEGRAL Nº 1 HÉROES DE MALVINAS",
+        "ref:cue": "061514100",
+        "ref:cui_dgcye": "608101394",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061514100",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "AVENIDA PRESIDENTE PERÓN Y MATKINTACH 1560",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.9057655007202%2C-60.56960142853412%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.9057655007202;-60.56960142853412;17&R",
+        "_distancia_sede_m": 823,
+        "_nivel_oferta": "Secundario Especial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.56003715901969,
+          -33.893394442874325
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061616000",
+        "amenity": "school",
+        "name": "Escuela Especial los Buenos Hijos",
+        "official_name": "ESCUELA ESPECIAL LOS BUENOS HIJOS",
+        "ref:cue": "061616000",
+        "ref:cui_dgcye": "608101167",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061616000",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "MARCELINO UGARTE 427",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.893394442874325%2C-60.56003715901969%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.893394442874325;-60.56003715901969;17&R",
+        "_distancia_sede_m": 829,
+        "isced:level": "1;2",
+        "_nivel_oferta": "Primario Especial / Secundario Especial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57230593938819,
+          -33.89797848316281
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061871900",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº 19 Rodolfo Walsh",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº 19 RODOLFO WALSH",
+        "ref:cue": "061871900",
+        "ref:cui_dgcye": "608100700",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061871900",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "FLORIDA (E/25 DE MAYO Y DOCTOR ALEM) 425",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89797848316281%2C-60.57230593938819%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89797848316281;-60.57230593938819;17&R",
+        "_distancia_sede_m": 829,
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.573322131814265,
+          -33.89768184742474
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061080700",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº901 Maria Montessori",
+        "official_name": "JARDÍN DE INFANTES Nº901 MARIA MONTESSORI",
+        "ref:cue": "061080700",
+        "ref:cui_dgcye": "608100264",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061080700",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "FLORIDA (E/ SAN NICOLAS Y 25 DE MAYO) 519",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89768184742474%2C-60.573322131814265%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89768184742474;-60.573322131814265;17&R",
+        "_distancia_sede_m": 928,
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57365718006477,
+          -33.89751426104671
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061081000",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Técnica Nº2",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA TÉCNICA Nº2",
+        "ref:cue": "061081000",
+        "ref:cui_dgcye": "608100728",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061081000",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "FLORIDA 545",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89751426104671%2C-60.57365718006477%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89751426104671;-60.57365718006477;17&R",
+        "_distancia_sede_m": 963,
+        "_nivel_oferta": "Secundario / Secundario Técnico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57015563572256,
+          -33.892193452951695
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062296700",
+        "amenity": "school",
+        "name": "La Casita de Melina",
+        "official_name": "LA CASITA DE MELINA",
+        "ref:cue": "062296700",
+        "ref:cui_dgcye": "608101146",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062296700",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "PINTO 455",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.892193452951695%2C-60.57015563572256%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.892193452951695;-60.57015563572256;17&R",
+        "_distancia_sede_m": 1069,
+        "isced:level": "0",
+        "_nivel_oferta": "Jardín Maternal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57532151810342,
+          -33.8982394768787
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061098700",
+        "amenity": "school",
+        "name": "Colegio Nuestra Señora del Huerto",
+        "official_name": "COLEGIO NUESTRA SEÑORA DEL HUERTO",
+        "ref:cue": "061098700",
+        "ref:cui_dgcye": "608101105",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061098700",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "H. M. CRESCENCIA PEREZ 646",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES NUETRA SEÑORA DEL HUERTO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.8982394768787%2C-60.57532151810342%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.8982394768787;-60.57532151810342;17&R",
+        "_distancia_sede_m": 1092,
+        "isced:level": "1",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57532151810342,
+          -33.8982394768787
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060446800",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nuetra Señora del Huerto",
+        "official_name": "JARDÍN DE INFANTES NUETRA SEÑORA DEL HUERTO",
+        "ref:cue": "060446800",
+        "ref:cui_dgcye": "608101105",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060446800",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "SAN NICOLAS 1029",
+        "_comparte_edificio_con": "COLEGIO NUESTRA SEÑORA DEL HUERTO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.8982394768787%2C-60.57532151810342%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.8982394768787;-60.57532151810342;17&R",
+        "_distancia_sede_m": 1092,
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.56956293329798,
+          -33.89110183202265
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060719000",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes San Antonio de Padua",
+        "official_name": "JARDÍN DE INFANTES SAN ANTONIO DE PADUA",
+        "ref:cue": "060719000",
+        "ref:cui_dgcye": "608101151",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060719000",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "LAGOS E/ ALEN Y LUZURIAGA 441",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89110183202265%2C-60.56956293329798%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89110183202265;-60.56956293329798;17&R",
+        "_distancia_sede_m": 1145,
+        "_nivel_oferta": "Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57515832880607,
+          -33.89523532075762
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060147503",
+        "amenity": "school",
+        "name": "Centro de Adultos Nº707/01",
+        "official_name": "CENTRO DE ADULTOS Nº707/01",
+        "ref:cue": "060147503",
+        "ref:cui_dgcye": "608100134",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060147503",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "BALBOA 586",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89523532075762%2C-60.57515832880607%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89523532075762;-60.57515832880607;17&R",
+        "_distancia_sede_m": 1190,
+        "isced:level": "1",
+        "_nivel_oferta": "Primario Adultos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.56935485461394,
+          -33.890235156316784
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062260400",
+        "amenity": "school",
+        "name": "Centro Investigación Educativa Silvia Ferrero Regis",
+        "official_name": "CENTRO INVESTIGACIÓN EDUCATIVA SILVIA FERRERO REGIS",
+        "ref:cue": "062260400",
+        "ref:cui_dgcye": "608100238",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062260400",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "ALSINA 466",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.890235156316784%2C-60.56935485461394%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.890235156316784;-60.56935485461394;17&R",
+        "_distancia_sede_m": 1223,
+        "isced:level": "5",
+        "_nivel_oferta": "SNU Cursos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57195868676166,
+          -33.90952119969841
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062291400",
+        "amenity": "school",
+        "name": "Colegio San Agustin",
+        "official_name": "COLEGIO SAN AGUSTIN",
+        "ref:cue": "062291400",
+        "ref:cui_dgcye": "608101076",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062291400",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "AV. PTE. PERÒN 1959",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.90952119969841%2C-60.57195868676166%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.90952119969841;-60.57195868676166;17&R",
+        "_distancia_sede_m": 1285,
+        "isced:level": "2",
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.56265701403689,
+          -33.88835069893334
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061179603",
+        "amenity": "school",
+        "name": "Centro de Adultos Nº708",
+        "official_name": "CENTRO DE ADULTOS Nº708",
+        "ref:cue": "061179603",
+        "ref:cui_dgcye": "608100083",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061179603",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "VELEZ SARFIELD 450",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.88835069893334%2C-60.56265701403689%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.88835069893334;-60.56265701403689;17&R",
+        "_distancia_sede_m": 1321,
+        "isced:level": "1",
+        "_nivel_oferta": "Primario Adultos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.5546555969482,
+          -33.90945197700943
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060804200",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº917",
+        "official_name": "JARDÍN DE INFANTES Nº917",
+        "ref:cue": "060804200",
+        "ref:cui_dgcye": "608100422",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060804200",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "SCHUMACHER (E/GONZALEZ Y E. DEL CAMPO) 1418",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.90945197700943%2C-60.5546555969482%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.90945197700943;-60.5546555969482;17&R",
+        "_distancia_sede_m": 1327,
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.55429145735677,
+          -33.90965916386099
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061872000",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº10",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº10",
+        "ref:cue": "061872000",
+        "ref:cui_dgcye": "608100065",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061872000",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "ESTANISLAO DEL CAMPO 1542",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.90965916386099%2C-60.55429145735677%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.90965916386099;-60.55429145735677;17&R",
+        "_distancia_sede_m": 1366,
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.54831904744283,
+          -33.9002969464713
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060825100",
+        "amenity": "college",
+        "name": "Instituto de Formación Docente y Técnica Nº5 Región de la Norpampa",
+        "official_name": "INSTITUTO DE FORMACIÓN DOCENTE Y TÉCNICA Nº5 REGIÓN DE LA NORPAMPA",
+        "ref:cue": "060825100",
+        "ref:cui_dgcye": "608100240",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060825100",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "SCALABRINI ORTIZ (E/MOSCONI Y LEBENSOHN) 472",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "5",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.9002969464713%2C-60.54831904744283%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.9002969464713;-60.54831904744283;17&R",
+        "_distancia_sede_m": 1422,
+        "_nivel_oferta": "SNU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.54835453942362,
+          -33.90173478020881
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060825000",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº2 Martín Miguel de Güemes",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 MARTÍN MIGUEL DE GÜEMES",
+        "ref:cue": "060825000",
+        "ref:cui_dgcye": "608100645",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060825000",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "SCALABRINI ORTIZ 658",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.90173478020881%2C-60.54835453942362%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.90173478020881;-60.54835453942362;17&R",
+        "_distancia_sede_m": 1429,
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.54823722460902,
+          -33.90106781479119
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061637600",
+        "amenity": "school",
+        "name": "Centro de Educación Física Nº99 Barrio Obrero",
+        "official_name": "CENTRO DE EDUCACIÓN FÍSICA Nº99 BARRIO OBRERO",
+        "ref:cue": "061637600",
+        "ref:cui_dgcye": "608100229",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061637600",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "O`FARRELL 571",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.90106781479119%2C-60.54823722460902%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.90106781479119;-60.54823722460902;17&R",
+        "_distancia_sede_m": 1433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.56990496222309,
+          -33.887658781277146
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061722600",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº15 María Eva Duarte",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº15 MARÍA EVA DUARTE",
+        "ref:cue": "061722600",
+        "ref:cui_dgcye": "608100684",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061722600",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "ESPAÑA E/ SIRIA Y SARMIENTO 649 P.",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.887658781277146%2C-60.56990496222309%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.887658781277146;-60.56990496222309;17&R",
+        "_distancia_sede_m": 1506,
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.578709361931956,
+          -33.906314976186415
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061175400",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº913 Rosana Cura",
+        "official_name": "JARDÍN DE INFANTES Nº913 ROSANA CURA",
+        "ref:cue": "061175400",
+        "ref:cui_dgcye": "608100388",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061175400",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "SAN NICOLAS E/MONROE Y LAVALLE 1864",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.906314976186415%2C-60.578709361931956%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.906314976186415;-60.578709361931956;17&R",
+        "_distancia_sede_m": 1541,
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57486006665106,
+          -33.88962995036706
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060147300",
+        "amenity": "school",
+        "name": "Instituto de Capacitacion y Desarrollo (Secundario)",
+        "official_name": "INSTITUTO DE CAPACITACION Y DESARROLLO",
+        "ref:cue": "060147300",
+        "ref:cui_dgcye": "608101133",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060147300",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "ITALIA 151",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.88962995036706%2C-60.57486006665106%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.88962995036706;-60.57486006665106;17&R",
+        "_distancia_sede_m": 1561,
+        "isced:level": "2",
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57486006665106,
+          -33.88962995036706
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061465400",
+        "amenity": "school",
+        "name": "Instituto de Capacitacion y Desarrollo (Primario)",
+        "official_name": "INSTITUTO DE CAPACITACION Y DESARROLLO",
+        "ref:cue": "061465400",
+        "ref:cui_dgcye": "608101133",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061465400",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "ITALIA 151",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.88962995036706%2C-60.57486006665106%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.88962995036706;-60.57486006665106;17&R",
+        "_distancia_sede_m": 1561,
+        "isced:level": "1",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.56253027340507,
+          -33.91444993796834
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062416300",
+        "amenity": "school",
+        "name": "Centro Educativo de Nivel Secundario Nº454",
+        "official_name": "CENTRO EDUCATIVO DE NIVEL SECUNDARIO Nº454",
+        "ref:cue": "062416300",
+        "ref:cui_dgcye": "608100943",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062416300",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "GÜIRALDES E/ YAPEYÚ Y BATALLA DE BAILEN 2049  PARAJE KENNEDY",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.91444993796834%2C-60.56253027340507%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.91444993796834;-60.56253027340507;17&R",
+        "_distancia_sede_m": 1589,
+        "_nivel_oferta": "Secundario Adultos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.5807519614801,
+          -33.89808017835969
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061175500",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº5 Almirante Guillermo Brown",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº5 ALMIRANTE GUILLERMO BROWN",
+        "ref:cue": "061175500",
+        "ref:cui_dgcye": "608100168",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061175500",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "ESTRADA 1225",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº6 ESTEBAN ECHEVERRIA",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89808017835969%2C-60.5807519614801%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89808017835969;-60.5807519614801;17&R",
+        "_distancia_sede_m": 1589,
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.5807519614801,
+          -33.89808017835969
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061174500",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº6 Esteban Echeverria",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº6 ESTEBAN ECHEVERRIA",
+        "ref:cue": "061174500",
+        "ref:cui_dgcye": "608100168",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061174500",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "ESTRADA 6",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº5 ALMIRANTE GUILLERMO BROWN",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89808017835969%2C-60.5807519614801%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89808017835969;-60.5807519614801;17&R",
+        "_distancia_sede_m": 1589,
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57988292372198,
+          -33.8949713251441
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060147500",
+        "amenity": "school",
+        "name": "Escuela de Adultos Nº701 Juan Martín de Pueyrredon",
+        "official_name": "ESCUELA DE ADULTOS Nº701 JUAN MARTÍN DE PUEYRREDON",
+        "ref:cue": "060147500",
+        "ref:cui_dgcye": "608100110",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060147500",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "FLORIDA 1111",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº16 GENERAL JOSÉ DE SAN MARTIN",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.8949713251441%2C-60.57988292372198%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.8949713251441;-60.57988292372198;17&R",
+        "_distancia_sede_m": 1600,
+        "isced:level": "1",
+        "_nivel_oferta": "Primario Adultos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57988292372198,
+          -33.8949713251441
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060446900",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº16 General José de San Martin",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº16 GENERAL JOSÉ DE SAN MARTIN",
+        "ref:cue": "060446900",
+        "ref:cui_dgcye": "608100110",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060446900",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "FLORIDA E/ RIVADAVIA Y MONTEAGUDO 1111",
+        "_comparte_edificio_con": "ESCUELA DE ADULTOS Nº701 JUAN MARTÍN DE PUEYRREDON",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.8949713251441%2C-60.57988292372198%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.8949713251441;-60.57988292372198;17&R",
+        "_distancia_sede_m": 1600,
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.56262098449877,
+          -33.91456197282305
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061648000",
+        "amenity": "school",
+        "name": "Centro Educativo Complementario Nº1 Mi Casa",
+        "official_name": "CENTRO EDUCATIVO COMPLEMENTARIO Nº1 MI CASA",
+        "ref:cue": "061648000",
+        "ref:cui_dgcye": "608100175",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061648000",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "GÜIRALDES 2059  BARRIO KENNEDY",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES Nº926",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.91456197282305%2C-60.56262098449877%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.91456197282305;-60.56262098449877;17&R",
+        "_distancia_sede_m": 1601
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.56262098449877,
+          -33.91456197282305
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062233100",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº926",
+        "official_name": "JARDÍN DE INFANTES Nº926",
+        "ref:cue": "062233100",
+        "ref:cui_dgcye": "608100175",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062233100",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "RICARDO GÜIRALDES 2059  BARRIO KENNEDY",
+        "_comparte_edificio_con": "CENTRO EDUCATIVO COMPLEMENTARIO Nº1 MI CASA",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.91456197282305%2C-60.56262098449877%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.91456197282305;-60.56262098449877;17&R",
+        "_distancia_sede_m": 1601,
+        "_nivel_oferta": "Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.580303311897815,
+          -33.895850191852546
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062053800",
+        "amenity": "college",
+        "name": "Centro de Formación Profesional Nº402",
+        "official_name": "CENTRO DE FORMACIÓN PROFESIONAL Nº402",
+        "ref:cue": "062053800",
+        "ref:cui_dgcye": "608101445",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062053800",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "ESTRADA 985",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "4",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.895850191852546%2C-60.580303311897815%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.895850191852546;-60.580303311897815;17&R",
+        "_distancia_sede_m": 1604,
+        "_nivel_oferta": "Formación Profesional / Formación Profesional Técnica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57538435510312,
+          -33.88928239915545
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062344600",
+        "amenity": "kindergarten",
+        "name": "Jardín Maternal Así Crecemos",
+        "official_name": "JARDÍN MATERNAL ASÍ CRECEMOS",
+        "ref:cue": "062344600",
+        "ref:cui_dgcye": "608100904",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062344600",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "JOSÉ MANUEL ESTRADA 128",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.88928239915545%2C-60.57538435510312%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.88928239915545;-60.57538435510312;17&R",
+        "_distancia_sede_m": 1621,
+        "_nivel_oferta": "Jardín Maternal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57891861039148,
+          -33.908083841286505
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061514400",
+        "amenity": "college",
+        "name": "Centro de Formación Profesional Nº 401 Dr. Julio Maiztegui",
+        "official_name": "CENTRO DE FORMACIÓN PROFESIONAL Nº 401 DR. JULIO MAIZTEGUI",
+        "ref:cue": "061514400",
+        "ref:cui_dgcye": "608101413",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061514400",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "BALBOA 504",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "4",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.908083841286505%2C-60.57891861039148%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.908083841286505;-60.57891861039148;17&R",
+        "_distancia_sede_m": 1654,
+        "_nivel_oferta": "Formación Profesional / Formación Profesional Técnica"
+      }
+    }
+  ]
+}

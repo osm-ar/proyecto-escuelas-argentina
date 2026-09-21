@@ -1,0 +1,2745 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57948406355704,
+          -33.90800138908173
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062349000",
+        "amenity": "school",
+        "name": "Centro Educativo de Nivel Secundario Para Adultos Nº451",
+        "official_name": "CENTRO EDUCATIVO DE NIVEL SECUNDARIO PARA ADULTOS Nº451",
+        "ref:cue": "062349000",
+        "ref:cui_dgcye": "608101325",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062349000",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "BALBOA 586",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.90800138908173%2C-60.57948406355704%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.90800138908173;-60.57948406355704;17&R",
+        "_distancia_sede_m": 1693,
+        "_nivel_oferta": "Secundario Adultos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.579381185241786,
+          -33.908471093751054
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061872300",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº14 Atahualpa Yupanqui",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº14 ATAHUALPA YUPANQUI",
+        "ref:cue": "061872300",
+        "ref:cui_dgcye": "608101339",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061872300",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "MAGALLANES 587",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.908471093751054%2C-60.579381185241786%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.908471093751054;-60.579381185241786;17&R",
+        "_distancia_sede_m": 1713,
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.578149056408684,
+          -33.88970407911628
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062356000",
+        "amenity": "college",
+        "name": "Centro de Formación Profesional Monteagudo",
+        "official_name": "CENTRO DE FORMACIÓN PROFESIONAL MONTEAGUDO",
+        "ref:cue": "062356000",
+        "ref:cui_dgcye": "608101122",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062356000",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "PINTO 1195",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "isced:level": "4",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.88970407911628%2C-60.578149056408684%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.88970407911628;-60.578149056408684;17&R",
+        "_distancia_sede_m": 1770,
+        "_nivel_oferta": "Formación Profesional / Formación Profesional Técnica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.569265705866364,
+          -33.884687547946506
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060532000",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº902 Mariano Moreno",
+        "official_name": "JARDÍN DE INFANTES Nº902 MARIANO MORENO",
+        "ref:cue": "060532000",
+        "ref:cui_dgcye": "608100272",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060532000",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "SIRIA Y RAMON RAIMUNDO 588",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.884687547946506%2C-60.569265705866364%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.884687547946506;-60.569265705866364;17&R",
+        "_distancia_sede_m": 1798,
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.58261448334053,
+          -33.89443092851485
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060719100",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes San Vicente de Paul",
+        "official_name": "JARDÍN DE INFANTES SAN VICENTE DE PAUL",
+        "ref:cue": "060719100",
+        "ref:cui_dgcye": "608101095",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060719100",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "FRANCIA 952",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89443092851485%2C-60.58261448334053%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89443092851485;-60.58261448334053;17&R",
+        "_distancia_sede_m": 1857,
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.58188018915716,
+          -33.89291674886936
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061176800",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº7 Dr. J.V. Gonzalez",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº7 DR. J.V. GONZALEZ",
+        "ref:cue": "061176800",
+        "ref:cui_dgcye": "608101292",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061176800",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "AVENIDA COLON 725",
+        "_comparte_edificio_con": "INSTITUTO SUPERIOR DE FORMACION DOC. Y TECN. Nº122 PTE. A. ILLIA; ESCUELA DE EDUCACIÓN PRIMARIA Nº63 DR. JOAQUIN V. GONZALEZ",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89291674886936%2C-60.58188018915716%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89291674886936;-60.58188018915716;17&R",
+        "_distancia_sede_m": 1860,
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.58188018915716,
+          -33.89291674886936
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060804700",
+        "amenity": "college",
+        "name": "Instituto Superior de Formacion Doc. y Tecn. Nº122 Pte. A. Illia",
+        "official_name": "INSTITUTO SUPERIOR DE FORMACION DOC. Y TECN. Nº122 PTE. A. ILLIA",
+        "ref:cue": "060804700",
+        "ref:cui_dgcye": "608101292",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060804700",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "AVDA. COLON 725",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº7 DR. J.V. GONZALEZ; ESCUELA DE EDUCACIÓN PRIMARIA Nº63 DR. JOAQUIN V. GONZALEZ",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "5",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89291674886936%2C-60.58188018915716%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89291674886936;-60.58188018915716;17&R",
+        "_distancia_sede_m": 1860,
+        "_nivel_oferta": "SNU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.58188018915716,
+          -33.89291674886936
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061176900",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº63 Dr. Joaquin V. Gonzalez",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº63 DR. JOAQUIN V. GONZALEZ",
+        "ref:cue": "061176900",
+        "ref:cui_dgcye": "608101292",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061176900",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "AVENIDA COLON 725",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº7 DR. J.V. GONZALEZ; INSTITUTO SUPERIOR DE FORMACION DOC. Y TECN. Nº122 PTE. A. ILLIA",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89291674886936%2C-60.58188018915716%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89291674886936;-60.58188018915716;17&R",
+        "_distancia_sede_m": 1860,
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.582225537968114,
+          -33.89317926764489
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060222600",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº922 Dr. J. V. Gonzalez",
+        "official_name": "JARDÍN DE INFANTES Nº922 DR. J. V. GONZALEZ",
+        "ref:cue": "060222600",
+        "ref:cui_dgcye": "608101285",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060222600",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "SAN MARTÍN 1387",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89317926764489%2C-60.582225537968114%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89317926764489;-60.582225537968114;17&R",
+        "_distancia_sede_m": 1877,
+        "_nivel_oferta": "Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57762901258989,
+          -33.88606542936133
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061179600",
+        "amenity": "school",
+        "name": "Escuela de Adultos Nº702 Dr. René Gerónimo Favaloro",
+        "official_name": "ESCUELA DE ADULTOS Nº702 DR. RENÉ GERÓNIMO FAVALORO",
+        "ref:cue": "061179600",
+        "ref:cui_dgcye": "608100123",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061179600",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "AMEGHINO E/ MITRE Y ESPAÑA 131",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.88606542936133%2C-60.57762901258989%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.88606542936133;-60.57762901258989;17&R",
+        "_distancia_sede_m": 2028,
+        "isced:level": "1",
+        "_nivel_oferta": "Primario Adultos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.5834061762055,
+          -33.88968544547729
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061699400",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes San Gabriel",
+        "official_name": "JARDÍN DE INFANTES SAN GABRIEL",
+        "ref:cue": "061699400",
+        "ref:cui_dgcye": "608100970",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061699400",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "AV. DE MAYO 1624",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.88968544547729%2C-60.5834061762055%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.88968544547729;-60.5834061762055;17&R",
+        "_distancia_sede_m": 2160,
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.58503057589333,
+          -33.91114235533222
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061514300",
+        "amenity": "school",
+        "name": "Escuela de Educación Temprana Nº 1 María Elena Walsh",
+        "official_name": "ESCUELA DE EDUCACIÓN TEMPRANA Nº 1 MARÍA ELENA WALSH ",
+        "ref:cue": "061514300",
+        "ref:cui_dgcye": "608100201",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061514300",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "LINIERS E/ ITALIA Y MONTEAGUDO 950",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.91114235533222%2C-60.58503057589333%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.91114235533222;-60.58503057589333;17&R",
+        "_distancia_sede_m": 2312,
+        "isced:level": "0",
+        "_nivel_oferta": "Educación Temprana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.53980408479645,
+          -33.89179403503265
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060803900",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº52 Gregoria Salas",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº52 GREGORIA SALAS",
+        "ref:cue": "060803900",
+        "ref:cui_dgcye": "608100856",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060803900",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "MANSILLA 808",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.89179403503265%2C-60.53980408479645%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.89179403503265;-60.53980408479645;17&R",
+        "_distancia_sede_m": 2398,
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57187912753755,
+          -33.877588243776955
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061179602",
+        "amenity": "school",
+        "name": "Centro de Adultos Nº711/02",
+        "official_name": "CENTRO DE ADULTOS Nº711/02",
+        "ref:cue": "061179602",
+        "ref:cui_dgcye": "608100106",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061179602",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "PASO Y EL SOCORRO (E)",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº64 DR. PEDRO P. ZINI; ESCUELA DE EDUCACIÓN SECUNDARIA Nº12",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.877588243776955%2C-60.57187912753755%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.877588243776955;-60.57187912753755;17&R",
+        "_distancia_sede_m": 2624,
+        "isced:level": "1",
+        "_nivel_oferta": "Primario Adultos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57187912753755,
+          -33.877588243776955
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061379900",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº64 Dr. Pedro P. Zini",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº64 DR. PEDRO P. ZINI",
+        "ref:cue": "061379900",
+        "ref:cui_dgcye": "608100106",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061379900",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "PASO Y EL SOCORRO 1288",
+        "_comparte_edificio_con": "CENTRO DE ADULTOS Nº711/02; ESCUELA DE EDUCACIÓN SECUNDARIA Nº12",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.877588243776955%2C-60.57187912753755%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.877588243776955;-60.57187912753755;17&R",
+        "_distancia_sede_m": 2624,
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57187912753755,
+          -33.877588243776955
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062047300",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº12",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº12",
+        "ref:cue": "062047300",
+        "ref:cui_dgcye": "608100106",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062047300",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "PASO E/ JOHN Y EL SOCORRO 1288",
+        "_comparte_edificio_con": "CENTRO DE ADULTOS Nº711/02; ESCUELA DE EDUCACIÓN PRIMARIA Nº64 DR. PEDRO P. ZINI",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.877588243776955%2C-60.57187912753755%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.877588243776955;-60.57187912753755;17&R",
+        "_distancia_sede_m": 2624,
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.572327745112425,
+          -33.87743819571243
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061335600",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº 923 Doctor Tomás Ramella",
+        "official_name": "JARDÍN DE INFANTES Nº 923 DOCTOR TOMÁS RAMELLA",
+        "ref:cue": "061335600",
+        "ref:cui_dgcye": "608100467",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061335600",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "MATHEU 1201  BARRIO SAN JOSÉ",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.87743819571243%2C-60.572327745112425%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.87743819571243;-60.572327745112425;17&R",
+        "_distancia_sede_m": 2652,
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.538200707696404,
+          -33.8889259384853
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062048000",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº925 Dr. Pedro Aguilar Ortiz",
+        "official_name": "JARDÍN DE INFANTES Nº925 DR. PEDRO AGUILAR ORTIZ",
+        "ref:cue": "062048000",
+        "ref:cui_dgcye": "608100480",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062048000",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "ASCASUBI 86",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.8889259384853%2C-60.538200707696404%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.8889259384853;-60.538200707696404;17&R",
+        "_distancia_sede_m": 2669,
+        "_nivel_oferta": "Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.59310480739661,
+          -33.90240892544436
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061648100",
+        "amenity": "school",
+        "name": "Centro Educativo Complementario N° 2 Hogar Felíz",
+        "official_name": "CENTRO EDUCATIVO COMPLEMENTARIO N° 2 HOGAR FELÍZ",
+        "ref:cue": "061648100",
+        "ref:cui_dgcye": "608100887",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061648100",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "BARRANCAS DEL PARANÁ 1935",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.90240892544436%2C-60.59310480739661%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.90240892544436;-60.59310480739661;17&R",
+        "_distancia_sede_m": 2722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.59360748875617,
+          -33.90562919819484
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060147501",
+        "amenity": "school",
+        "name": "Centro de Adultos Nº703/01",
+        "official_name": "CENTRO DE ADULTOS Nº703/01",
+        "ref:cue": "060147501",
+        "ref:cui_dgcye": "608100049",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060147501",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "BARRANCAS DEL PARANAÁ Y SOLIS",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.90562919819484%2C-60.59360748875617%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.90562919819484;-60.59360748875617;17&R",
+        "_distancia_sede_m": 2823,
+        "isced:level": "1",
+        "_nivel_oferta": "Primario Adultos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.55927784922294,
+          -33.87433666874277
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062099800",
+        "amenity": "school",
+        "name": "Monseñor Scalabrini",
+        "official_name": "MONSEÑOR SCALABRINI",
+        "ref:cue": "062099800",
+        "ref:cui_dgcye": "608101069",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062099800",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "CHAMPAGNAT 251",
+        "_comparte_edificio_con": "CENTRO DE FORMACIÓN PROFESIONAL ARTES Y OFICIOS MONSEÑOR SCALABRINI; JARDÍN DE INFANTES MADRE DE LA DIVINA PROVIDENCIA",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.87433666874277%2C-60.55927784922294%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.87433666874277;-60.55927784922294;17&R",
+        "_distancia_sede_m": 2904,
+        "isced:level": "2",
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.55927784922294,
+          -33.87433666874277
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061524700",
+        "amenity": "college",
+        "name": "Centro de Formación Profesional Artes y Oficios Monseñor Scalabrini",
+        "official_name": "CENTRO DE FORMACIÓN PROFESIONAL ARTES Y OFICIOS MONSEÑOR SCALABRINI",
+        "ref:cue": "061524700",
+        "ref:cui_dgcye": "608101069",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061524700",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "AVDA. CHAMPAGNAT 150",
+        "_comparte_edificio_con": "MONSEÑOR SCALABRINI; JARDÍN DE INFANTES MADRE DE LA DIVINA PROVIDENCIA",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "isced:level": "4",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.87433666874277%2C-60.55927784922294%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.87433666874277;-60.55927784922294;17&R",
+        "_distancia_sede_m": 2904,
+        "_nivel_oferta": "Formación Profesional / Formación Profesional Técnica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.55927784922294,
+          -33.87433666874277
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061630700",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Madre de la Divina Providencia",
+        "official_name": "JARDÍN DE INFANTES MADRE DE LA DIVINA PROVIDENCIA",
+        "ref:cue": "061630700",
+        "ref:cui_dgcye": "608101069",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061630700",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "MARCELINO CHAMPAGNAT 250",
+        "_comparte_edificio_con": "MONSEÑOR SCALABRINI; CENTRO DE FORMACIÓN PROFESIONAL ARTES Y OFICIOS MONSEÑOR SCALABRINI",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.87433666874277%2C-60.55927784922294%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.87433666874277;-60.55927784922294;17&R",
+        "_distancia_sede_m": 2904,
+        "_nivel_oferta": "Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.58379095591318,
+          -33.920571503823055
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061098800",
+        "amenity": "school",
+        "name": "Colegio San Pablo",
+        "official_name": "COLEGIO SAN PABLO",
+        "ref:cue": "061098800",
+        "ref:cui_dgcye": "608101007",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061098800",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "GUALBERTO ÁLVAREZ 401",
+        "_comparte_edificio_con": "COLEGIO SAN PABLO PERGAMINO; JARDÍN DE INFANTES SAN PABLO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.920571503823055%2C-60.58379095591318%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.920571503823055;-60.58379095591318;17&R",
+        "_distancia_sede_m": 2926,
+        "isced:level": "1",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.58379095591318,
+          -33.920571503823055
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061465300",
+        "amenity": "school",
+        "name": "Colegio San Pablo Pergamino",
+        "official_name": "COLEGIO SAN PABLO PERGAMINO",
+        "ref:cue": "061465300",
+        "ref:cui_dgcye": "608101007",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061465300",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "G. ÁLVAREZ 401",
+        "_comparte_edificio_con": "COLEGIO SAN PABLO; JARDÍN DE INFANTES SAN PABLO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.920571503823055%2C-60.58379095591318%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.920571503823055;-60.58379095591318;17&R",
+        "_distancia_sede_m": 2926,
+        "isced:level": "2",
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.58379095591318,
+          -33.920571503823055
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061702100",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes San Pablo",
+        "official_name": "JARDÍN DE INFANTES SAN PABLO",
+        "ref:cue": "061702100",
+        "ref:cui_dgcye": "608101007",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061702100",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "GUALBERTO ÁLVAREZ 401",
+        "_comparte_edificio_con": "COLEGIO SAN PABLO; COLEGIO SAN PABLO PERGAMINO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.920571503823055%2C-60.58379095591318%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.920571503823055;-60.58379095591318;17&R",
+        "_distancia_sede_m": 2926,
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.591850706708556,
+          -33.8861260652028
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061175300",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº915 Virgen de Lujan",
+        "official_name": "JARDÍN DE INFANTES Nº915 VIRGEN DE LUJAN",
+        "ref:cue": "061175300",
+        "ref:cui_dgcye": "608100405",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061175300",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "AVENIDA JAUREGUI Y SANTA ROSA",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.8861260652028%2C-60.591850706708556%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.8861260652028;-60.591850706708556;17&R",
+        "_distancia_sede_m": 3030,
+        "_nivel_oferta": "Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.571853710087694,
+          -33.927068647381695
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060222900",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Agraria Nº1 Ingeniero Lorenzo R. Parodi",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA AGRARIA Nº1 INGENIERO LORENZO R. PARODI",
+        "ref:cue": "060222900",
+        "ref:cui_dgcye": "608100621",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060222900",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "INT. RUTAS 188 Y 178",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.927068647381695%2C-60.571853710087694%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.927068647381695;-60.571853710087694;17&R",
+        "_distancia_sede_m": 3081,
+        "_nivel_oferta": "Secundario / Secundario Técnico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57957843183556,
+          -33.87427844085075
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062234300",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº927",
+        "official_name": "JARDÍN DE INFANTES Nº927",
+        "ref:cue": "062234300",
+        "ref:cui_dgcye": "608100498",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062234300",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "ALMAFUERTE E/ BARBAZAN Y CIRC.MUNICIP. 1370  BARRIO TRINCAVELLI",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.87427844085075%2C-60.57957843183556%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.87427844085075;-60.57957843183556;17&R",
+        "_distancia_sede_m": 3232,
+        "_nivel_oferta": "Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.596461412699945,
+          -33.91246819238884
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062109800",
+        "amenity": "school",
+        "name": "Santa Julia",
+        "official_name": "SANTA JULIA",
+        "ref:cue": "062109800",
+        "ref:cui_dgcye": "608100989",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062109800",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "JUAN BELCUORE 2964",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.91246819238884%2C-60.596461412699945%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.91246819238884;-60.596461412699945;17&R",
+        "_distancia_sede_m": 3315,
+        "isced:level": "2",
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.59451384642939,
+          -33.88445994775318
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060719700",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº18 Republica Argentina",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº18 REPUBLICA ARGENTINA",
+        "ref:cue": "060719700",
+        "ref:cui_dgcye": "608100666",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060719700",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "GOLONDRINAS E/ CEIBOS Y CALANDRIAS 2842",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº11",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.88445994775318%2C-60.59451384642939%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.88445994775318;-60.59451384642939;17&R",
+        "_distancia_sede_m": 3337,
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.59451384642939,
+          -33.88445994775318
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061872100",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº11",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº11",
+        "ref:cue": "061872100",
+        "ref:cui_dgcye": "608100666",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061872100",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "GOLONDRINAS E/ CEIBOS Y CALANDRIAS 2842",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº18 REPUBLICA ARGENTINA",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.88445994775318%2C-60.59451384642939%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.88445994775318;-60.59451384642939;17&R",
+        "_distancia_sede_m": 3337,
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.593883881969624,
+          -33.920766363197316
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061979900",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº13",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº13",
+        "ref:cue": "061979900",
+        "ref:cui_dgcye": "608100678",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061979900",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "AVDA. ANTONIO RIVERO Y S. ELCANO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.920766363197316%2C-60.593883881969624%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.920766363197316;-60.593883881969624;17&R",
+        "_distancia_sede_m": 3602,
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.56731796575618,
+          -33.86684035696546
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060210100",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes San Jose",
+        "official_name": "JARDÍN DE INFANTES SAN JOSE",
+        "ref:cue": "060210100",
+        "ref:cui_dgcye": "608101053",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060210100",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "JUAN MANUEL DE ROSAS 2597",
+        "_comparte_edificio_con": "COLEGIO SAN JOSE; COLEGIO SAN JOSÉ",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.86684035696546%2C-60.56731796575618%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.86684035696546;-60.56731796575618;17&R",
+        "_distancia_sede_m": 3724,
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.56731796575618,
+          -33.86684035696546
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060532200",
+        "amenity": "school",
+        "name": "Colegio San Jose",
+        "official_name": "COLEGIO SAN JOSE",
+        "ref:cue": "060532200",
+        "ref:cui_dgcye": "608101053",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060532200",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "CHAMPAGNAT 1375",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES SAN JOSE; COLEGIO SAN JOSÉ",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.86684035696546%2C-60.56731796575618%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.86684035696546;-60.56731796575618;17&R",
+        "_distancia_sede_m": 3724,
+        "isced:level": "1",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.56731796575618,
+          -33.86684035696546
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061179900",
+        "amenity": "school",
+        "name": "Colegio San José",
+        "official_name": "COLEGIO SAN JOSÉ",
+        "ref:cue": "061179900",
+        "ref:cui_dgcye": "608101053",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061179900",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "JUAN MANUEL DE ROSAS 2511",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES SAN JOSE; COLEGIO SAN JOSE",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.86684035696546%2C-60.56731796575618%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.86684035696546;-60.56731796575618;17&R",
+        "_distancia_sede_m": 3724,
+        "isced:level": "2",
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.57011516930439,
+          -33.86477550686352
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060147800",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº918 Santa Teresita del Niño Jesus",
+        "official_name": "JARDÍN DE INFANTES Nº918 SANTA TERESITA DEL NIÑO JESUS",
+        "ref:cue": "060147800",
+        "ref:cui_dgcye": "608100433",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060147800",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "120 Y 101   BARRIO OTERO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.86477550686352%2C-60.57011516930439%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.86477550686352;-60.57011516930439;17&R",
+        "_distancia_sede_m": 3982,
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.570257465215,
+          -33.86430393379702
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060147400",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº11 Juan José Paso",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº11 JUAN JOSÉ PASO",
+        "ref:cue": "060147400",
+        "ref:cui_dgcye": "608100697",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060147400",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "127 Y DIAGONAL 120",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº 17 DR. RENÉ FAVALORO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.86430393379702%2C-60.570257465215%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.86430393379702;-60.570257465215;17&R",
+        "_distancia_sede_m": 4036,
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.570257465215,
+          -33.86430393379702
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061979700",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº 17 Dr. René Favaloro",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº 17 DR. RENÉ FAVALORO",
+        "ref:cue": "061979700",
+        "ref:cui_dgcye": "608100697",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061979700",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "JULIO DI GANGI 1650",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº11 JUAN JOSÉ PASO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.86430393379702%2C-60.570257465215%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.86430393379702;-60.570257465215;17&R",
+        "_distancia_sede_m": 4036,
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.59214354538207,
+          -33.931312978561145
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062484300",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes T.E.A.M.S.",
+        "official_name": "JARDÍN DE INFANTES T.E.A.M.S.",
+        "ref:cue": "062484300",
+        "ref:cui_dgcye": "608101432",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062484300",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "RUTA 188 KILÓMETRO 77",
+        "_comparte_edificio_con": "COLEGIO T.E.A.M.S.",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.931312978561145%2C-60.59214354538207%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.931312978561145;-60.59214354538207;17&R",
+        "_distancia_sede_m": 4341,
+        "_nivel_oferta": "Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.59214354538207,
+          -33.931312978561145
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062484400",
+        "amenity": "school",
+        "name": "Colegio T.E.A.M.S.",
+        "official_name": "COLEGIO T.E.A.M.S.",
+        "ref:cue": "062484400",
+        "ref:cui_dgcye": "608101432",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062484400",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "RUTA 188 KILÓMETRO 77",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES T.E.A.M.S.",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.931312978561145%2C-60.59214354538207%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.931312978561145;-60.59214354538207;17&R",
+        "_distancia_sede_m": 4341,
+        "isced:level": "1",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.5645607925225,
+          -33.93999711850628
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062304200",
+        "amenity": "kindergarten",
+        "name": "Jardín Maternal Nº1 Semillitas",
+        "official_name": "JARDÍN MATERNAL Nº1 SEMILLITAS",
+        "ref:cue": "062304200",
+        "ref:cui_dgcye": "608100511",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062304200",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "RUTA 32 KM 4,5",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.93999711850628%2C-60.5645607925225%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.93999711850628;-60.5645607925225;17&R",
+        "_distancia_sede_m": 4427,
+        "_nivel_oferta": "Jardín Maternal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.38091632575468,
+          -33.925412567149095
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060649000",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº15 Lucila Anchorena de Urquiza",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº15 LUCILA ANCHORENA DE URQUIZA",
+        "ref:cue": "060649000",
+        "ref:cui_dgcye": "608100759",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060649000",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "SALTA E/ CORDOBA Y FORMOSA   URQUIZA",
+        "_comparte_edificio_con": "INSTITUTO JUAN ANCHORENA",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.925412567149095%2C-60.38091632575468%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.925412567149095;-60.38091632575468;17&R",
+        "_distancia_sede_m": 17101,
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.26257407514939,
+          -33.96419445735756
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062151600",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Rural Nº1",
+        "official_name": "JARDÍN DE INFANTES RURAL Nº1",
+        "ref:cue": "062151600",
+        "ref:cui_dgcye": "608100524",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062151600",
+        "_ambito_padron": "Urbano",
+        "_domicilio_padron": "CAMINO RURAL DEL CARMEN    MAGUIRE - ESC. PRIMARIA Nº49",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº49 SAN FRANCISCO DEL MONTE",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.96419445735756%2C-60.26257407514939%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.96419445735756;-60.26257407514939;17&R",
+        "_distancia_sede_m": 28681,
+        "_nivel_oferta": "Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.65040791315443,
+          -34.03141138520484
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060081900",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº57 Fermin Ortiz Basualdo",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº57 FERMIN ORTIZ BASUALDO",
+        "ref:cue": "060081900",
+        "ref:cui_dgcye": "608100873",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060081900",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "RUTA 188 Y CRUCE O.BASUALDO   ORTIZ BASUALDO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-34.03141138520484%2C-60.65040791315443%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-34.03141138520484;-60.65040791315443;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.465503012011624,
+          -33.91277591827616
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060181100",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº 919 Juana Bautista Musso",
+        "official_name": "JARDÍN DE INFANTES Nº 919 JUANA BAUTISTA MUSSO",
+        "ref:cue": "060181100",
+        "ref:cui_dgcye": "608101237",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060181100",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "CAMINO VECINAL",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.91277591827616%2C-60.465503012011624%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.91277591827616;-60.465503012011624;17&R",
+        "_nivel_oferta": "Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.50226852461975,
+          -34.02911236637605
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060181200",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº906 Mi Sueño",
+        "official_name": "JARDÍN DE INFANTES Nº906 MI SUEÑO",
+        "ref:cue": "060181200",
+        "ref:cui_dgcye": "608100319",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060181200",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "MENENDEZ (E/ MITRE Y ELIZALDE)",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-34.02911236637605%2C-60.50226852461975%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-34.02911236637605;-60.50226852461975;17&R",
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.488964500562304,
+          -33.83059712128288
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060187400",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº920 Dr. Victor Felix Villegas",
+        "official_name": "JARDÍN DE INFANTES Nº920 DR. VICTOR FELIX VILLEGAS",
+        "ref:cue": "060187400",
+        "ref:cui_dgcye": "608101259",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060187400",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "LEOPOLDO LUGONES",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.83059712128288%2C-60.488964500562304%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.83059712128288;-60.488964500562304;17&R",
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.32328413501263,
+          -33.74749676805938
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060226600",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº26 Domingo Faustino Sarmiento",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº26 DOMINGO FAUSTINO SARMIENTO",
+        "ref:cue": "060226600",
+        "ref:cui_dgcye": "608100609",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060226600",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "ZONA RURAL   MANANTIALES",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES RURAL Nº9",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.74749676805938%2C-60.32328413501263%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.74749676805938;-60.32328413501263;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.26257407514939,
+          -33.96419445735756
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060252800",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº49 San Francisco del Monte",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº49 SAN FRANCISCO DEL MONTE",
+        "ref:cue": "060252800",
+        "ref:cui_dgcye": "608100524",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060252800",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "CAMINO RURAL DEL CARMEN   MAGUIRE",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES RURAL Nº1",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.96419445735756%2C-60.26257407514939%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.96419445735756;-60.26257407514939;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.64825119743425,
+          -33.764232334216224
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060278900",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº907 Guillermo Jorge Lopez",
+        "official_name": "JARDÍN DE INFANTES Nº907 GUILLERMO JORGE LOPEZ",
+        "ref:cue": "060278900",
+        "ref:cui_dgcye": "608100326",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060278900",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "BV. JOSÉ LEON OCAMPO 114",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.764232334216224%2C-60.64825119743425%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.764232334216224;-60.64825119743425;17&R",
+        "_nivel_oferta": "Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.83067436468232,
+          -33.914896195911076
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060279000",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Agraria Instituto Mariano Moreno",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA AGRARIA INSTITUTO MARIANO MORENO",
+        "ref:cue": "060279000",
+        "ref:cui_dgcye": "608100744",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060279000",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "ACCESO G. CALVELLO 124",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº7 PATRICIO KEARNEY",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.914896195911076%2C-60.83067436468232%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.914896195911076;-60.83067436468232;17&R",
+        "_nivel_oferta": "Secundario / Secundario Técnico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.55888321193286,
+          -33.83715376073599
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060279100",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº56 Vicente López y Planes",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº56 VICENTE LÓPEZ Y PLANES",
+        "ref:cue": "060279100",
+        "ref:cui_dgcye": "608100548",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060279100",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "ZONA RURAL",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº6 - ANEXO Nº1; JARDÍN DE INFANTES RURAL Nº3",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.83715376073599%2C-60.55888321193286%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.83715376073599;-60.55888321193286;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.83067436468232,
+          -33.914896195911076
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060279900",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº7 Patricio Kearney",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº7 PATRICIO KEARNEY",
+        "ref:cue": "060279900",
+        "ref:cui_dgcye": "608100744",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060279900",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "ACCESO GASTON CALVELO 124",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN SECUNDARIA AGRARIA INSTITUTO MARIANO MORENO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.914896195911076%2C-60.83067436468232%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.914896195911076;-60.83067436468232;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.77457815355833,
+          -33.93143530687261
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060280000",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº43 Almirante Guillermo Brown",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº43 ALMIRANTE GUILLERMO BROWN",
+        "ref:cue": "060280000",
+        "ref:cui_dgcye": "608100839",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060280000",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "RUTA 8 KM 245/244   CAMPO ROTH",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.93143530687261%2C-60.77457815355833%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.93143530687261;-60.77457815355833;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.46511756678697,
+          -33.91247092866762
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060752900",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº59 Virgen Maria Auxiliadora",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº59 VIRGEN MARIA AUXILIADORA",
+        "ref:cue": "060752900",
+        "ref:cui_dgcye": "608101244",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060752900",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "BASSO   FONTEZUELA",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.91247092866762%2C-60.46511756678697%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.91247092866762;-60.46511756678697;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.485069286993294,
+          -33.73955957130642
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060753000",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº37 Republica de Italia",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº37 REPUBLICA DE ITALIA",
+        "ref:cue": "060753000",
+        "ref:cui_dgcye": "608100613",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060753000",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "PARAJE GORNATI   GORNATI",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES RURAL Nº10",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.73955957130642%2C-60.485069286993294%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.73955957130642;-60.485069286993294;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.488837511289624,
+          -33.83088781688149
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060753100",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº19 Juan Larrea",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº19 JUAN LARREA",
+        "ref:cue": "060753100",
+        "ref:cui_dgcye": "608100451",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060753100",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "ASCASUBI 440",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.83088781688149%2C-60.488837511289624%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.83088781688149;-60.488837511289624;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.20003840187123,
+          -33.78810550077487
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060753200",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº21 Remedios Escalada de San Martín",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº21 REMEDIOS ESCALADA DE SAN MARTÍN",
+        "ref:cue": "060753200",
+        "ref:cui_dgcye": "608100771",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060753200",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "RUTA Nº51 KM 36.5   LA VIOLETA",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.78810550077487%2C-60.20003840187123%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.78810550077487;-60.20003840187123;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.16894813908117,
+          -33.733868070745274
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060753300",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº916 Niñas de Ayohuma",
+        "official_name": "JARDÍN DE INFANTES Nº916 NIÑAS DE AYOHUMA",
+        "ref:cue": "060753300",
+        "ref:cui_dgcye": "608100414",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060753300",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "YRIGOYEN E/ SARMIENTO Y SAN MARTÍN 276",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº9 GENERAL BARTOLOME MITRE; ESCUELA DE EDUCACIÓN SECUNDARIA Nº8 DR. JULIO MAIZTEGUI",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.733868070745274%2C-60.16894813908117%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.733868070745274;-60.16894813908117;17&R",
+        "_nivel_oferta": "Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.504879821827636,
+          -34.02847005324192
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060756800",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº54 Tierra del Fuego",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº54 TIERRA DEL FUEGO",
+        "ref:cue": "060756800",
+        "ref:cui_dgcye": "608100860",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060756800",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "SANTA ANA E/MENENDEZ Y A.GOMEZ 380",
+        "_comparte_edificio_con": "INSTITUTO COMERCIAL RANCAGUA",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-34.02847005324192%2C-60.504879821827636%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-34.02847005324192;-60.504879821827636;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.42089566375853,
+          -33.78299503943919
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060805700",
+        "amenity": "school",
+        "name": "Escuela de la Familia Agrícola Dr. Ernesto Nazar",
+        "official_name": "ESCUELA DE LA FAMILIA AGRÍCOLA DR. ERNESTO NAZAR",
+        "ref:cue": "060805700",
+        "ref:cui_dgcye": "608101030",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060805700",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "CAMINO A LA VIOLETA KM. 4",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.78299503943919%2C-60.42089566375853%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.78299503943919;-60.42089566375853;17&R",
+        "isced:level": "2",
+        "_nivel_oferta": "Secundario / Secundario Técnico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.41392171817624,
+          -34.094493728117726
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060805900",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº31 Silverio F. Vazquez",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº31 SILVERIO F. VAZQUEZ",
+        "ref:cue": "060805900",
+        "ref:cui_dgcye": "608100530",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060805900",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "RUTA 32 ACCESO ARROYO DULCE   VILLA SAN JOSE",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES RURAL Nº2 SILVERO VAZQUEZ",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-34.094493728117726%2C-60.41392171817624%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-34.094493728117726;-60.41392171817624;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.35535881793733,
+          -33.838151417090806
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060806000",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº29 Domingo Faustino Sarmiento",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº29 DOMINGO FAUSTINO SARMIENTO",
+        "ref:cue": "060806000",
+        "ref:cui_dgcye": "608100818",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060806000",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "CAMINO RURAL E/ACEVEDO Y LA VIOLETA   MANANTIALES GRANDE",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.838151417090806%2C-60.35535881793733%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.838151417090806;-60.35535881793733;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.380518758688346,
+          -33.92571773292838
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060806200",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº909 Gabriela Mistral",
+        "official_name": "JARDÍN DE INFANTES Nº909 GABRIELA MISTRAL",
+        "ref:cue": "060806200",
+        "ref:cui_dgcye": "608100342",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060806200",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "AV. CORDOBA (ESQ. CATAMARCA Y FORMOSA)",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.92571773292838%2C-60.380518758688346%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.92571773292838;-60.380518758688346;17&R",
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.16894813908117,
+          -33.733868070745274
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060829000",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº9 General Bartolome Mitre",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº9 GENERAL BARTOLOME MITRE",
+        "ref:cue": "060829000",
+        "ref:cui_dgcye": "608100414",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060829000",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "SARMIENTO 689",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES Nº916 NIÑAS DE AYOHUMA; ESCUELA DE EDUCACIÓN SECUNDARIA Nº8 DR. JULIO MAIZTEGUI",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.733868070745274%2C-60.16894813908117%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.733868070745274;-60.16894813908117;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.441380333736376,
+          -33.75790388621438
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060829200",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº1 Bernardino Rivadavia",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº1 BERNARDINO RIVADAVIA",
+        "ref:cue": "060829200",
+        "ref:cui_dgcye": "608100632",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060829200",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "8 468",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.75790388621438%2C-60.441380333736376%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.75790388621438;-60.441380333736376;17&R",
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.29228703860719,
+          -33.67214413390474
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060830200",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº35 Jaime Salvador Marques",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº35 JAIME SALVADOR MARQUES",
+        "ref:cue": "060830200",
+        "ref:cui_dgcye": "608100553",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060830200",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "CAMINO LA VIOLETA Y RUTA 188 - CUARTEL XXI   PARAJE JUAN PUJOL",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES RURAL Nº4",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.67214413390474%2C-60.29228703860719%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.67214413390474;-60.29228703860719;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.638556881230684,
+          -34.08227976116336
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060834600",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº44 Magdalena Ortiz Basualdo Bacú",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº44 MAGDALENA ORTIZ BASUALDO BACÚ",
+        "ref:cue": "060834600",
+        "ref:cui_dgcye": "608100841",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060834600",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "RUTA NACIONAL Nº188 KM. 94,5   LA MAGDALENA",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES RURAL Nº5",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-34.08227976116336%2C-60.638556881230684%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-34.08227976116336;-60.638556881230684;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.68076508911369,
+          -33.85475045704582
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060874800",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº34 José Lorenzo Moreno",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº34 JOSÉ LORENZO MORENO",
+        "ref:cue": "060874800",
+        "ref:cui_dgcye": "608100582",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060874800",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "RUTA Nº178 KM 13",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES RURAL Nº7",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.85475045704582%2C-60.68076508911369%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.85475045704582;-60.68076508911369;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.64992252251521,
+          -33.76501034656092
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060875000",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº3 Victoria Ocampo",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 VICTORIA OCAMPO",
+        "ref:cue": "060875000",
+        "ref:cui_dgcye": "608100650",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060875000",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "PERGAMINO 670",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº3 CORONEL JULIO S.DANTAS",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.76501034656092%2C-60.64992252251521%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.76501034656092;-60.64992252251521;17&R",
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.70680269080744,
+          -33.66300008879476
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060875100",
+        "amenity": "school",
+        "name": "Instituto Comercial el Socorro",
+        "official_name": "INSTITUTO COMERCIAL EL SOCORRO",
+        "ref:cue": "060875100",
+        "ref:cui_dgcye": "608101048",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060875100",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "LORENZO MORENO 845",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.66300008879476%2C-60.70680269080744%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.66300008879476;-60.70680269080744;17&R",
+        "isced:level": "2",
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.732118047521354,
+          -33.994291405046326
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060875300",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº23 Remedios de Escalada de San Martin",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº23 REMEDIOS DE ESCALADA DE SAN MARTIN",
+        "ref:cue": "060875300",
+        "ref:cui_dgcye": "608100361",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060875300",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "INDEPENDENCIA 53",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES Nº911 JUANA MANSO; ESCUELA DE EDUCACIÓN SECUNDARIA Nº16 - EXTENSIÓN",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.994291405046326%2C-60.732118047521354%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.994291405046326;-60.732118047521354;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.732118047521354,
+          -33.994291405046326
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060875400",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº911 Juana Manso",
+        "official_name": "JARDÍN DE INFANTES Nº911 JUANA MANSO",
+        "ref:cue": "060875400",
+        "ref:cui_dgcye": "608100361",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060875400",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "JUAN JOSÉ PASO 175",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº23 REMEDIOS DE ESCALADA DE SAN MARTIN; ESCUELA DE EDUCACIÓN SECUNDARIA Nº16 - EXTENSIÓN",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.994291405046326%2C-60.732118047521354%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.994291405046326;-60.732118047521354;17&R",
+        "_nivel_oferta": "Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.708473787182925,
+          -33.663397689952724
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060875500",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº903 Remedios de Esc. de San Martin",
+        "official_name": "JARDÍN DE INFANTES Nº903 REMEDIOS DE ESC. DE SAN MARTIN",
+        "ref:cue": "060875500",
+        "ref:cui_dgcye": "608100286",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060875500",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "ANGEL GODOY (E/BULRICH Y HUMBERTO 1.) 745",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.663397689952724%2C-60.708473787182925%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.663397689952724;-60.708473787182925;17&R",
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.766172336941594,
+          -33.832980924635066
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060875600",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº27 Francisco Urrutia",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº27 FRANCISCO URRUTIA",
+        "ref:cue": "060875600",
+        "ref:cui_dgcye": "608100802",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060875600",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "NECOCHEA 515  URRUTIA",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.832980924635066%2C-60.766172336941594%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.832980924635066;-60.766172336941594;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.83848701672609,
+          -33.80126434644767
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060876100",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº36 Santa Rosa de Lima",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº36 SANTA ROSA DE LIMA",
+        "ref:cue": "060876100",
+        "ref:cui_dgcye": "608100825",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060876100",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "RUTA 178 KM. 30",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.80126434644767%2C-60.83848701672609%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.80126434644767;-60.83848701672609;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.70641017843758,
+          -33.662582404866676
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060876200",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº24 Gral. Manuel Belgrano",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº24 GRAL. MANUEL BELGRANO",
+        "ref:cue": "060876200",
+        "ref:cui_dgcye": "608100792",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060876200",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "LORENZO MORENO E/ GODOY Y ECHAGUE 845  EL SOCORRO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.662582404866676%2C-60.70641017843758%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.662582404866676;-60.70641017843758;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.83109665362658,
+          -33.91418721927147
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060876300",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Nº914 Sara Ch. de Ecleston",
+        "official_name": "JARDÍN DE INFANTES Nº914 SARA CH. DE ECLESTON",
+        "ref:cue": "060876300",
+        "ref:cui_dgcye": "608100390",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060876300",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "ACCESO GASCON CALVELO - SECTOR A",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.91418721927147%2C-60.83109665362658%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.91418721927147;-60.83109665362658;17&R",
+        "_nivel_oferta": "Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.64992252251521,
+          -33.76501034656092
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060876400",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº3 Coronel Julio S.Dantas",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº3 CORONEL JULIO S.DANTAS",
+        "ref:cue": "060876400",
+        "ref:cui_dgcye": "608100650",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060876400",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "PERGAMINO 670",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 VICTORIA OCAMPO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.76501034656092%2C-60.64992252251521%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.76501034656092;-60.64992252251521;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.82841612227394,
+          -33.72821292957196
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060876500",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº30 General San Martin",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº30 GENERAL SAN MARTIN",
+        "ref:cue": "060876500",
+        "ref:cui_dgcye": "608100576",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060876500",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "ZONA RURAL",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES RURAL Nº6",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.72821292957196%2C-60.82841612227394%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.72821292957196;-60.82841612227394;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.582123498923124,
+          -33.708359495732275
+        ]
+      },
+      "properties": {
+        "id": "pergamino_060876600",
+        "amenity": "school",
+        "name": "Escuela de Educación Primaria Nº14 Senador Miguel Victoriano Dávila",
+        "official_name": "ESCUELA DE EDUCACIÓN PRIMARIA Nº14 SENADOR MIGUEL VICTORIANO DÁVILA",
+        "ref:cue": "060876600",
+        "ref:cui_dgcye": "608100595",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/060876600",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "CAMPO DÁVILA 450",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES RURAL Nº8",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "1",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.708359495732275%2C-60.582123498923124%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.708359495732275;-60.582123498923124;17&R",
+        "_nivel_oferta": "Primario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.55888321193286,
+          -33.83715376073599
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061174501",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº6 - Anexo Nº1",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº6 - ANEXO Nº1",
+        "ref:cue": "061174501",
+        "ref:cui_dgcye": "608100548",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061174501",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "ZONA RURAL",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº56 VICENTE LÓPEZ Y PLANES; JARDÍN DE INFANTES RURAL Nº3",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.83715376073599%2C-60.55888321193286%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.83715376073599;-60.55888321193286;17&R",
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.504879821827636,
+          -34.02847005324192
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061182300",
+        "amenity": "school",
+        "name": "Instituto Comercial Rancagua",
+        "official_name": "INSTITUTO COMERCIAL RANCAGUA",
+        "ref:cue": "061182300",
+        "ref:cui_dgcye": "608100860",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061182300",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "SANTA ANA 380",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº54 TIERRA DEL FUEGO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-34.02847005324192%2C-60.504879821827636%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-34.02847005324192;-60.504879821827636;17&R",
+        "isced:level": "2",
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.38091632575468,
+          -33.925412567149095
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061182400",
+        "amenity": "school",
+        "name": "Instituto Juan Anchorena",
+        "official_name": "INSTITUTO JUAN ANCHORENA",
+        "ref:cue": "061182400",
+        "ref:cui_dgcye": "608100759",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061182400",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "SALTA Y AV. CORDOBA 618",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº15 LUCILA ANCHORENA DE URQUIZA",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "private",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.925412567149095%2C-60.38091632575468%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.925412567149095;-60.38091632575468;17&R",
+        "isced:level": "2",
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.638556881230684,
+          -34.08227976116336
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061548100",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Rural Nº5",
+        "official_name": "JARDÍN DE INFANTES RURAL Nº5",
+        "ref:cue": "061548100",
+        "ref:cui_dgcye": "608100841",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061548100",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "RUTA 188 KM 94,5",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº44 MAGDALENA ORTIZ BASUALDO BACÚ",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-34.08227976116336%2C-60.638556881230684%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-34.08227976116336;-60.638556881230684;17&R",
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.82841612227394,
+          -33.72821292957196
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061548200",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Rural Nº6",
+        "official_name": "JARDÍN DE INFANTES RURAL Nº6",
+        "ref:cue": "061548200",
+        "ref:cui_dgcye": "608100576",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061548200",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "ZONA RURAL",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº30 GENERAL SAN MARTIN",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.72821292957196%2C-60.82841612227394%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.72821292957196;-60.82841612227394;17&R",
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.582123498923124,
+          -33.708359495732275
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061548300",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Rural Nº8",
+        "official_name": "JARDÍN DE INFANTES RURAL Nº8",
+        "ref:cue": "061548300",
+        "ref:cui_dgcye": "608100595",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061548300",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "MIGUEL DÁVILA 450",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº14 SENADOR MIGUEL VICTORIANO DÁVILA",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.708359495732275%2C-60.582123498923124%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.708359495732275;-60.582123498923124;17&R",
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.70497930618136,
+          -33.66181931136882
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061637500",
+        "amenity": "school",
+        "name": "Centro de Educación Física Nº79",
+        "official_name": "CENTRO DE EDUCACIÓN FÍSICA Nº79",
+        "ref:cue": "061637500",
+        "ref:cui_dgcye": "608100217",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061637500",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "ESTACIÓN DE FERROCARRIL   EL SOCORRO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.66181931136882%2C-60.70497930618136%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.66181931136882;-60.70497930618136;17&R"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.705405224621764,
+          -33.663301366096384
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061648200",
+        "amenity": "school",
+        "name": "Centro Educativo Complementario Nº3 Dr. Julio Isidro Maiztegui",
+        "official_name": "CENTRO EDUCATIVO COMPLEMENTARIO Nº3 DR. JULIO ISIDRO MAIZTEGUI",
+        "ref:cue": "061648200",
+        "ref:cui_dgcye": "608100894",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061648200",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "LORENZO MORENO 946  EL SOCORRO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.663301366096384%2C-60.705405224621764%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.663301366096384;-60.705405224621764;17&R"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.68076508911369,
+          -33.85475045704582
+        ]
+      },
+      "properties": {
+        "id": "pergamino_061716900",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Rural Nº7",
+        "official_name": "JARDÍN DE INFANTES RURAL Nº7",
+        "ref:cue": "061716900",
+        "ref:cui_dgcye": "608100582",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/061716900",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "RUTA 178 KM. 13   CAMPO BUENA VISTA - ESC. PRIMARIA Nº34",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº34 JOSÉ LORENZO MORENO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.85475045704582%2C-60.68076508911369%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.85475045704582;-60.68076508911369;17&R",
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.732118047521354,
+          -33.994291405046326
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062003101",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº16 - Extensión",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº16 - EXTENSIÓN",
+        "ref:cue": "062003101",
+        "ref:cui_dgcye": "608100361",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062003101",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "INDEPENDENCIA 53",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº23 REMEDIOS DE ESCALADA DE SAN MARTIN; JARDÍN DE INFANTES Nº911 JUANA MANSO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.994291405046326%2C-60.732118047521354%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.994291405046326;-60.732118047521354;17&R",
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.41392171817624,
+          -34.094493728117726
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062145300",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Rural Nº2 Silvero Vazquez",
+        "official_name": "JARDÍN DE INFANTES RURAL Nº2 SILVERO VAZQUEZ",
+        "ref:cue": "062145300",
+        "ref:cui_dgcye": "608100530",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062145300",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "RUTA 32 - ACCESO A ARROYO DULCE-   VILLA SAN JOSE",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº31 SILVERIO F. VAZQUEZ",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-34.094493728117726%2C-60.41392171817624%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-34.094493728117726;-60.41392171817624;17&R",
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.55888321193286,
+          -33.83715376073599
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062161100",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Rural Nº3",
+        "official_name": "JARDÍN DE INFANTES RURAL Nº3",
+        "ref:cue": "062161100",
+        "ref:cui_dgcye": "608100548",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062161100",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "ZONA RURAL",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº56 VICENTE LÓPEZ Y PLANES; ESCUELA DE EDUCACIÓN SECUNDARIA Nº6 - ANEXO Nº1",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.83715376073599%2C-60.55888321193286%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.83715376073599;-60.55888321193286;17&R",
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.29228703860719,
+          -33.67214413390474
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062161200",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Rural Nº4",
+        "official_name": "JARDÍN DE INFANTES RURAL Nº4",
+        "ref:cue": "062161200",
+        "ref:cui_dgcye": "608100553",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062161200",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "ZONA RURAL",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº35 JAIME SALVADOR MARQUES",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.67214413390474%2C-60.29228703860719%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.67214413390474;-60.29228703860719;17&R",
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.32328413501263,
+          -33.74749676805938
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062197500",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Rural Nº9",
+        "official_name": "JARDÍN DE INFANTES RURAL Nº9",
+        "ref:cue": "062197500",
+        "ref:cui_dgcye": "608100609",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062197500",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "PEHUAJÓ   MANTIALES CHICO",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº26 DOMINGO FAUSTINO SARMIENTO",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.74749676805938%2C-60.32328413501263%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.74749676805938;-60.32328413501263;17&R",
+        "_nivel_oferta": "Jardín de Infantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.16894813908117,
+          -33.733868070745274
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062208800",
+        "amenity": "school",
+        "name": "Escuela de Educación Secundaria Nº8 Dr. Julio Maiztegui",
+        "official_name": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº8 DR. JULIO MAIZTEGUI",
+        "ref:cue": "062208800",
+        "ref:cui_dgcye": "608100414",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062208800",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "SARMIENTO 689",
+        "_comparte_edificio_con": "JARDÍN DE INFANTES Nº916 NIÑAS DE AYOHUMA; ESCUELA DE EDUCACIÓN PRIMARIA Nº9 GENERAL BARTOLOME MITRE",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "2",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.733868070745274%2C-60.16894813908117%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.733868070745274;-60.16894813908117;17&R",
+        "_nivel_oferta": "Secundario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.485069286993294,
+          -33.73955957130642
+        ]
+      },
+      "properties": {
+        "id": "pergamino_062215500",
+        "amenity": "kindergarten",
+        "name": "Jardín de Infantes Rural Nº10",
+        "official_name": "JARDÍN DE INFANTES RURAL Nº10",
+        "ref:cue": "062215500",
+        "ref:cui_dgcye": "608100613",
+        "source": "Padrón oficial de establecimientos educativos - Municipalidad de Pergamino / DGCyE Buenos Aires",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/062215500",
+        "_ambito_padron": "Rural",
+        "_domicilio_padron": "PARAJE GORNATI",
+        "_comparte_edificio_con": "ESCUELA DE EDUCACIÓN PRIMARIA Nº37 REPUBLICA DE ITALIA",
+        "_nota": "VERIFICAR: puede ya existir en OSM (chequear radio 100m) antes de crear. Coordenada del predio DGCyE, puede no ser el ingreso exacto; ajustar según relevamiento en el lugar.",
+        "operator:type": "public",
+        "isced:level": "0",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A%20%20nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-33.73955957130642%2C-60.485069286993294%29%3B%0A%29%3B%0Aout%20center%20tags%3B&C=-33.73955957130642;-60.485069286993294;17&R",
+        "_nivel_oferta": "Jardín Maternal / Jardín de Infantes"
+      }
+    }
+  ]
+}

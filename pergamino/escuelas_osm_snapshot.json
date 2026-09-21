@@ -1,0 +1,701 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-06-01T08:52:28Z",
+    "timestamp_areas_base": "2026-06-01T08:52:28Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3590847640,
+  "lat": -33.8914201,
+  "lon": -60.5893636,
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "864",
+    "addr:postcode": "2700",
+    "addr:street": "Falucho",
+    "amenity": "kindergarten",
+    "name": "Jardín de Infantes San Cayetano",
+    "phone": "+54 2477 417831"
+  }
+},
+{
+  "type": "node",
+  "id": 4504740489,
+  "lat": -33.9141129,
+  "lon": -60.5967268,
+  "tags": {
+    "amenity": "kindergarten",
+    "check_date": "2025-04-05",
+    "name": "Santa Julia"
+  }
+},
+{
+  "type": "node",
+  "id": 4504769697,
+  "lat": -33.8943683,
+  "lon": -60.5739872,
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "681",
+    "addr:postcode": "2700",
+    "addr:street": "Bartolomé Mitre",
+    "amenity": "kindergarten",
+    "name": "Jardín Maternal Mimos"
+  }
+},
+{
+  "type": "node",
+  "id": 11167353616,
+  "lat": -33.9056462,
+  "lon": -60.5937122,
+  "tags": {
+    "amenity": "school",
+    "name": "Secundaria nº16",
+    "religion": "none"
+  }
+},
+{
+  "type": "way",
+  "id": 397553754,
+  "center": {
+    "lat": -33.8929320,
+    "lon": -60.5819136
+  },
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "721",
+    "addr:postcode": "2700",
+    "addr:street": "Boulevard Colón",
+    "amenity": "school",
+    "isced:level": "1;2;3",
+    "name": "Escuela Normal",
+    "operator:type": "government",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 397553755,
+  "center": {
+    "lat": -33.8932843,
+    "lon": -60.5819639
+  },
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "1387",
+    "addr:postcode": "2700",
+    "addr:street": "San Martín",
+    "amenity": "kindergarten",
+    "isced:level": "kindergarten",
+    "name": "Jardín 922",
+    "operator:type": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 582400290,
+  "center": {
+    "lat": -33.8909925,
+    "lon": -60.5706747
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "Edificio Matilde",
+    "operator": "Univesidad Nacional del Noroeste de Bs. As.",
+    "operator:type": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 582407993,
+  "center": {
+    "lat": -33.9095924,
+    "lon": -60.5721303
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "Colegio San Agustín"
+  }
+},
+{
+  "type": "way",
+  "id": 582407998,
+  "center": {
+    "lat": -33.8677601,
+    "lon": -60.5660844
+  },
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "1325",
+    "addr:street": "Boulevard Champagnat",
+    "amenity": "school",
+    "name": "Colegio San José",
+    "operator": "Hermanos Maristas"
+  }
+},
+{
+  "type": "way",
+  "id": 582411662,
+  "center": {
+    "lat": -33.9063280,
+    "lon": -60.5696793
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "Escuela Especial n°502"
+  }
+},
+{
+  "type": "way",
+  "id": 582413288,
+  "center": {
+    "lat": -33.8895456,
+    "lon": -60.5813955
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "Escuela Industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 582413291,
+  "center": {
+    "lat": -33.8980720,
+    "lon": -60.5807442
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "Colegio Nacional"
+  }
+},
+{
+  "type": "way",
+  "id": 582550588,
+  "center": {
+    "lat": -33.8889260,
+    "lon": -60.5707932
+  },
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "68",
+    "addr:postcode": "2700",
+    "addr:street": "Pasteur",
+    "amenity": "university",
+    "name": "Universidad Católica Argentina - Sede Pergamino"
+  }
+},
+{
+  "type": "way",
+  "id": 582562992,
+  "center": {
+    "lat": -33.8947692,
+    "lon": -60.5740849
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "E.E.P N° 1"
+  }
+},
+{
+  "type": "way",
+  "id": 582562994,
+  "center": {
+    "lat": -33.8979801,
+    "lon": -60.5723057
+  },
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "425",
+    "addr:postcode": "2700",
+    "addr:street": "Florida",
+    "amenity": "school",
+    "name": "E.E.P. n°2"
+  }
+},
+{
+  "type": "way",
+  "id": 582563812,
+  "center": {
+    "lat": -33.8982837,
+    "lon": -60.5753395
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "Colegio Nuestra Sra. del Huerto"
+  }
+},
+{
+  "type": "way",
+  "id": 582643300,
+  "center": {
+    "lat": -33.8958400,
+    "lon": -60.5740330
+  },
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "621",
+    "addr:postcode": "2700",
+    "addr:street": "San Martín",
+    "amenity": "college",
+    "education": "college",
+    "name": "conservatorio de Música"
+  }
+},
+{
+  "type": "way",
+  "id": 582698120,
+  "center": {
+    "lat": -33.8957111,
+    "lon": -60.5653201
+  },
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "76",
+    "addr:postcode": "2700",
+    "addr:street": "Avenida Hipólito Yrigoyen",
+    "amenity": "school",
+    "name": "Instituto Comercial Gianelli"
+  }
+},
+{
+  "type": "way",
+  "id": 582702519,
+  "center": {
+    "lat": -33.9124295,
+    "lon": -60.5964472
+  },
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "2965,",
+    "addr:street": "Alberdi",
+    "amenity": "school",
+    "denomination": "roman_catholic",
+    "name": "Escuela Santa Julia",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 582702773,
+  "center": {
+    "lat": -33.9082570,
+    "lon": -60.5793229
+  },
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "583",
+    "addr:postcode": "2700",
+    "addr:street": "Balboa",
+    "amenity": "school",
+    "name": "E.E.P. N° 53"
+  }
+},
+{
+  "type": "way",
+  "id": 582702949,
+  "center": {
+    "lat": -33.9064298,
+    "lon": -60.5787573
+  },
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "1892",
+    "addr:postcode": "2700",
+    "addr:street": "San Nicolás",
+    "amenity": "school",
+    "name": "Escuela de Artes Visuales n°501"
+  }
+},
+{
+  "type": "way",
+  "id": 583059107,
+  "center": {
+    "lat": -33.9010687,
+    "lon": -60.5482207
+  },
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "1920",
+    "addr:postcode": "2700",
+    "addr:street": "General Mosconi",
+    "amenity": "school",
+    "name": "E.E.P. n°50"
+  }
+},
+{
+  "type": "way",
+  "id": 583059564,
+  "center": {
+    "lat": -33.9037285,
+    "lon": -60.5472363
+  },
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "864",
+    "addr:postcode": "2700",
+    "addr:street": "Juan O'Farrell",
+    "amenity": "kindergarten",
+    "name": "Jardín de Infantes N° 912"
+  }
+},
+{
+  "type": "way",
+  "id": 618279109,
+  "center": {
+    "lat": -33.8876401,
+    "lon": -60.5699546
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "E.E.P. N° 4"
+  }
+},
+{
+  "type": "way",
+  "id": 618279111,
+  "center": {
+    "lat": -33.8860632,
+    "lon": -60.5775960
+  },
+  "tags": {
+    "addr:housenumber": "131",
+    "addr:street": "Boulevard Ameghino",
+    "amenity": "school",
+    "name": "E.E.P. N° 10"
+  }
+},
+{
+  "type": "way",
+  "id": 619457785,
+  "center": {
+    "lat": -33.8975613,
+    "lon": -60.5664082
+  },
+  "tags": {
+    "addr:housenumber": "670",
+    "addr:street": "Boulevard Rocha",
+    "amenity": "school",
+    "name": "E.E.P. N° 4"
+  }
+},
+{
+  "type": "way",
+  "id": 619599079,
+  "center": {
+    "lat": -33.9082485,
+    "lon": -60.5828475
+  },
+  "tags": {
+    "addr:housenumber": "2176",
+    "addr:street": "Italia",
+    "amenity": "kindergarten",
+    "name": "Jardín Nuestra Señora del Carmen"
+  }
+},
+{
+  "type": "way",
+  "id": 619870066,
+  "center": {
+    "lat": -33.9095323,
+    "lon": -60.5545233
+  },
+  "tags": {
+    "addr:housenumber": "1500",
+    "addr:street": "Doctor Schumacher",
+    "amenity": "school",
+    "name": "E.E.P N° 5 José Hernández"
+  }
+},
+{
+  "type": "way",
+  "id": 623425339,
+  "center": {
+    "lat": -33.8738315,
+    "lon": -60.5592877
+  },
+  "tags": {
+    "addr:housenumber": "200",
+    "addr:street": "Avenida Champagñat",
+    "amenity": "school",
+    "denomination": "roman_catholic",
+    "education": "school",
+    "email": "egbscalabrini@yahoo.com",
+    "name": "Escuela Monseñor Scalabrini",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 639844401,
+  "center": {
+    "lat": -33.8894527,
+    "lon": -60.5779306
+  },
+  "tags": {
+    "addr:housenumber": "256",
+    "addr:street": "Monteagudo",
+    "amenity": "kindergarten",
+    "name": "Jardín San Jorge"
+  }
+},
+{
+  "type": "way",
+  "id": 641002983,
+  "center": {
+    "lat": -33.8956331,
+    "lon": -60.5855077
+  },
+  "tags": {
+    "addr:housenumber": "1579",
+    "addr:street": "Castelli",
+    "amenity": "school",
+    "name": "E.E.P N° 17"
+  }
+},
+{
+  "type": "way",
+  "id": 641002985,
+  "center": {
+    "lat": -33.8905772,
+    "lon": -60.5783091
+  },
+  "tags": {
+    "addr:housenumber": "1165",
+    "addr:street": "Avenida de Mayo",
+    "amenity": "school",
+    "name": "E.E.P N° 22"
+  }
+},
+{
+  "type": "way",
+  "id": 641002988,
+  "center": {
+    "lat": -33.8743251,
+    "lon": -60.5796912
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "E.E.P N° 41"
+  }
+},
+{
+  "type": "way",
+  "id": 711994422,
+  "center": {
+    "lat": -33.9176634,
+    "lon": -60.5935868
+  },
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "1365",
+    "addr:postcode": "2700",
+    "addr:street": "Clemente Parodi",
+    "amenity": "kindergarten",
+    "name": "Jardín de Infantes nº928",
+    "operator": "Provincia de Buenos Aires"
+  }
+},
+{
+  "type": "way",
+  "id": 771492201,
+  "center": {
+    "lat": -33.9207782,
+    "lon": -60.5938811
+  },
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:postcode": "2700",
+    "addr:street": "Avenida Antonio Rivero",
+    "amenity": "school",
+    "name": "Escuela primaria 48",
+    "religion": "none"
+  }
+},
+{
+  "type": "way",
+  "id": 821531420,
+  "center": {
+    "lat": -33.8749034,
+    "lon": -60.5582028
+  },
+  "tags": {
+    "addr:city": "pergamino",
+    "addr:housenumber": "150",
+    "addr:postcode": "2700",
+    "addr:street": "Avenida Champagñat",
+    "amenity": "school",
+    "name": "Escuela Artes y Oficios Scalabrini"
+  }
+},
+{
+  "type": "way",
+  "id": 892752776,
+  "center": {
+    "lat": -33.9008157,
+    "lon": -60.5581153
+  },
+  "tags": {
+    "addr:housenumber": "941",
+    "addr:street": "Estanislao Zeballos",
+    "amenity": "school",
+    "name": "Escuela Primaria Nº62 \"Cnel Manuel Dorrego\""
+  }
+},
+{
+  "type": "way",
+  "id": 895003752,
+  "center": {
+    "lat": -33.8861792,
+    "lon": -60.5918434
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 895250450,
+  "center": {
+    "lat": -33.8844603,
+    "lon": -60.5944954
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 895539952,
+  "center": {
+    "lat": -33.8943593,
+    "lon": -60.5827186
+  },
+  "tags": {
+    "amenity": "kindergarten"
+  }
+},
+{
+  "type": "way",
+  "id": 897664948,
+  "center": {
+    "lat": -33.8641317,
+    "lon": -60.5704433
+  },
+  "tags": {
+    "amenity": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 1204949535,
+  "center": {
+    "lat": -33.9055662,
+    "lon": -60.5936734
+  },
+  "tags": {
+    "amenity": "school",
+    "grades": "6-11",
+    "name": "Escuela nº42",
+    "religion": "none"
+  }
+},
+{
+  "type": "way",
+  "id": 1204949537,
+  "center": {
+    "lat": -33.9048162,
+    "lon": -60.5922174
+  },
+  "tags": {
+    "amenity": "kindergarten",
+    "name": "Jardin nº924"
+  }
+},
+{
+  "type": "way",
+  "id": 1226205094,
+  "center": {
+    "lat": -33.8878581,
+    "lon": -60.5806156
+  },
+  "tags": {
+    "addr:housenumber": "1455",
+    "addr:street": "Echevarría",
+    "amenity": "school",
+    "grades": "0-6",
+    "name": "Jardín 904",
+    "religion": "none"
+  }
+},
+{
+  "type": "way",
+  "id": 1484953434,
+  "center": {
+    "lat": -33.9152280,
+    "lon": -60.5631062
+  },
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "2115",
+    "addr:postcode": "2700",
+    "addr:street": "Ricardo Güiraldes",
+    "amenity": "school",
+    "education": "school",
+    "name": "Jardín de Infantes nº 926"
+  }
+},
+{
+  "type": "way",
+  "id": 1486860693,
+  "center": {
+    "lat": -33.8923963,
+    "lon": -60.5670200
+  },
+  "tags": {
+    "amenity": "college",
+    "education": "college",
+    "name": "Instituto Superior de Formación Técnica Dr. Ramón Carrillo"
+  }
+},
+{
+  "type": "way",
+  "id": 1486887156,
+  "center": {
+    "lat": -33.8991762,
+    "lon": -60.5726444
+  },
+  "tags": {
+    "addr:city": "Pergamino",
+    "addr:housenumber": "412",
+    "addr:postcode": "2700",
+    "addr:street": "11 de Septiembre",
+    "amenity": "college",
+    "education": "college",
+    "name": "Escuela de Educación Estética  \"Arturo Vázquez\"",
+    "phone": "2477437544"
+  }
+},
+{
+  "type": "way",
+  "id": 1487230904,
+  "center": {
+    "lat": -33.9002760,
+    "lon": -60.5482706
+  },
+  "tags": {
+    "addr:housenumber": "472",
+    "addr:street": "Raúl Scalabrini Ortiz",
+    "amenity": "college",
+    "education": "college",
+    "name": "Instituto Superior de Formación Docente Nº5"
+  }
+}
+
+  ]
+}
