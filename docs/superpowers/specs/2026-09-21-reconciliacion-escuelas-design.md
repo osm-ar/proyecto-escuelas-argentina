@@ -80,8 +80,15 @@ reales, no priorizar tareas para un mapatón).
    Normaliza cada feature a un registro común: `cue, nombre, sector, lat,
    lon`. `sector` (público/privado del padrón) se mapea directo a
    `operator:type` (`public`/`private`) en la salida.
-   - Si la request falla o da timeout: aborta el run completo, no escribe
-     nada. No hay salida parcial.
+   - **Paginado por lotes**: usa `count`/`startIndex` del WFS (como ya hacía
+     el script viejo) en vez de un solo request — por ejemplo 200 features
+     por lote. Si un lote falla, reintenta con backoff corto; si sigue
+     fallando después de los reintentos, se sigue con los lotes restantes y
+     el resumen final deja explícito qué rango no se pudo traer (nunca
+     aborta todo el run por un lote puntual). Para las localidades de este
+     diseño (Pergamino ~130, Chajarí ~30) probablemente entra en un solo
+     lote, pero el mecanismo queda armado igual — es barato y evita el
+     supuesto de "siempre entra en un request".
 
 2. **`fetch_enriquecimiento(config, registros)`** — si `locality.yml` define
    un `enriquecimiento`, importa ese adaptador de `adapters/` y lo aplica
@@ -96,9 +103,18 @@ reales, no priorizar tareas para un mapatón).
 3. **`fetch_osm_existente(registros)`** — por cada escuela, un query Overpass
    individual de radio 400m (el mismo formato ya validado y que el mapeador
    ve en la tarea — `nwr["amenity"~"school|kindergarten|college|university"]
-   (around:400,lat,lon)`), no una descarga de todo el país. Reintenta una vez
-   con backoff corto si da timeout; si sigue fallando, no asume nada — pasa
-   el registro a clasificar con un flag `overpass_inconcluso=true`.
+   (around:400,lat,lon)`), no una descarga de todo el país.
+   - **Lotes + checkpoint**: procesa en grupos chicos (ej. 10 escuelas) con
+     una pausa corta entre lotes, para no saturar el servidor público de
+     Overpass (ya sabemos que a veces da timeout por sobrecarga). Después de
+     cada lote guarda un checkpoint (`.reconciliar_estado_<localidad>.json`,
+     no versionado) con lo resuelto hasta ahí. Si el run se corta o un lote
+     falla después de reintentar, la próxima corrida retoma desde el
+     checkpoint en vez de volver a consultar escuelas ya resueltas.
+   - Reintenta una vez con backoff corto si una consulta puntual da timeout;
+     si sigue fallando, no asume nada — esa escuela sigue a clasificar con
+     un flag `overpass_inconcluso=true`, pero el run **continúa** con el
+     resto (nunca se aborta todo por una consulta puntual).
 
 4. **`clasificar(registros)`** — por registro:
    - CUE exacto encontrado en el resultado de Overpass → `confirmada`
