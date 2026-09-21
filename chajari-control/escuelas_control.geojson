@@ -1,0 +1,665 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.8876877,
+          -30.7066912
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300021700",
+        "amenity": "school",
+        "name": "Escuela 40 Estanislao Del Campo",
+        "ref:cue": "300021700",
+        "isced:level": "1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300021700",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7066912%2C-57.8876877%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7066912%3B-57.8876877%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.8422034,
+          -30.775224
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300036600",
+        "amenity": "school",
+        "name": "Escuela 37 La Calandria",
+        "ref:cue": "300036600",
+        "isced:level": "1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300036600",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.775224%2C-57.8422034%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.775224%3B-57.8422034%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.8469873,
+          -30.7420169
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300036700",
+        "amenity": "school",
+        "name": "Escuela 33 Paula Albarracin",
+        "ref:cue": "300036700",
+        "isced:level": "1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300036700",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7420169%2C-57.8469873%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7420169%3B-57.8469873%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.8784705,
+          -30.769609
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300142500",
+        "amenity": "school",
+        "name": "Escuela 15 Sargento Cabral",
+        "ref:cue": "300142500",
+        "isced:level": "1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300142500",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.769609%2C-57.8784705%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.769609%3B-57.8784705%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9774365,
+          -30.7483872
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_noCUE_04",
+        "amenity": "college",
+        "name": "Instituto Superior San José",
+        "ref:cue": "",
+        "isced:level": "5",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7483872%2C-57.9774365%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7483872%3B-57.9774365%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9777221,
+          -30.7481411
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_noCUE_05",
+        "amenity": "school",
+        "name": "Manuel Belgrano 84",
+        "ref:cue": "",
+        "isced:level": "1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7481411%2C-57.9777221%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7481411%3B-57.9777221%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.3421718,
+          -31.5406785
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300144600",
+        "amenity": "school",
+        "name": "Escuela Primaria 61 Manuel de Sarratea",
+        "ref:cue": "300144600",
+        "isced:level": "1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300144600",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-31.5406785%2C-59.3421718%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-31.5406785%3B-59.3421718%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9802244,
+          -30.7542818
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300136500",
+        "amenity": "school",
+        "name": "Escuela Secundaria 4 Justo Jose De Urquiza",
+        "ref:cue": "300136500",
+        "isced:level": "No especificado",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300136500",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7542818%2C-57.9802244%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7542818%3B-57.9802244%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0150775,
+          -30.7583628
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300252100",
+        "amenity": "school",
+        "name": "Escuela 72 Mariano Moreno",
+        "ref:cue": "300252100",
+        "isced:level": "1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300252100",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7583628%2C-58.0150775%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7583628%3B-58.0150775%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9256693,
+          -30.7034845
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_noCUE_09",
+        "amenity": "school",
+        "name": "Escuela Secundaria N° 18 \"Pedro Cornaló\"",
+        "ref:cue": "",
+        "isced:level": "No especificado",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7034845%2C-57.9256693%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7034845%3B-57.9256693%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.0238839,
+          -30.7361964
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300014400",
+        "amenity": "school",
+        "name": "Pablo Pizzurno 9",
+        "ref:cue": "300014400",
+        "isced:level": "0;1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300014400",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7361964%2C-58.0238839%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7361964%3B-58.0238839%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9692194,
+          -30.7491792
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300315400",
+        "amenity": "school",
+        "name": "Escuela Primaria 74 Barrio Chaco",
+        "ref:cue": "300315400",
+        "isced:level": "1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300315400",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7491792%2C-57.9692194%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7491792%3B-57.9692194%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9738383,
+          -30.7410359
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300301100",
+        "amenity": "school",
+        "name": "Escuela 73 Hermana Imelda",
+        "ref:cue": "300301100",
+        "isced:level": "1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300301100",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7410359%2C-57.9738383%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7410359%3B-57.9738383%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9925129,
+          -30.752317
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300120600",
+        "amenity": "school",
+        "name": "Escuela 34 Martín Miguel de Güemes",
+        "ref:cue": "300120600",
+        "isced:level": "1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300120600",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.752317%2C-57.9925129%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.752317%3B-57.9925129%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9929615,
+          -30.7517457
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_noCUE_14",
+        "amenity": "school",
+        "name": "Secundaria \"Martín Miguel de Güemes\"",
+        "ref:cue": "",
+        "isced:level": "2;3",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7517457%2C-57.9929615%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7517457%3B-57.9929615%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9799107,
+          -30.7626544
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300120900",
+        "amenity": "school",
+        "name": "Escuela 120 José Manuel Estrada",
+        "ref:cue": "300120900",
+        "isced:level": "1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300120900",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7626544%2C-57.9799107%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7626544%3B-57.9799107%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9731061,
+          -30.7540682
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300130300",
+        "amenity": "school",
+        "name": "Escuela 41 José De San Martín",
+        "ref:cue": "300130300",
+        "isced:level": "0;1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300130300",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7540682%2C-57.9731061%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7540682%3B-57.9731061%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.986383,
+          -30.7597279
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300134400",
+        "amenity": "school",
+        "name": "Escuela N° 53 \"María Auxiliadora\"",
+        "ref:cue": "300134400",
+        "isced:level": "1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300134400",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7597279%2C-57.986383%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7597279%3B-57.986383%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9860864,
+          -30.7601159
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_noCUE_18",
+        "amenity": "school",
+        "name": "Instituto \"María Auxiliadora\" D-121",
+        "ref:cue": "",
+        "isced:level": "2;3",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7601159%2C-57.9860864%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7601159%3B-57.9860864%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9879176,
+          -30.7549698
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_noCUE_19",
+        "amenity": "school",
+        "name": "Especial N. 8",
+        "ref:cue": "",
+        "isced:level": "1;2;3",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7549698%2C-57.9879176%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7549698%3B-57.9879176%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.987966,
+          -30.7555711
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_noCUE_20",
+        "amenity": "school",
+        "name": "Héroes de Malvinas",
+        "ref:cue": "",
+        "isced:level": "1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7555711%2C-57.987966%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7555711%3B-57.987966%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.975938,
+          -30.7468326
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_noCUE_21",
+        "amenity": "school",
+        "name": "Coronel Miguel Güarumba 5",
+        "ref:cue": "",
+        "isced:level": "0,1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7468326%2C-57.975938%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7468326%3B-57.975938%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9916303,
+          -30.764828
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300120500",
+        "amenity": "school",
+        "name": "Escuela Primaria 31 Dominguito",
+        "ref:cue": "300120500",
+        "isced:level": "1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300120500",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.764828%2C-57.9916303%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.764828%3B-57.9916303%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9881527,
+          -30.7435547
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300111300",
+        "amenity": "school",
+        "name": "Escuela 38 Virgen Peregrina",
+        "ref:cue": "300111300",
+        "isced:level": "0,1,2",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300111300",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7435547%2C-57.9881527%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7435547%3B-57.9881527%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9801159,
+          -30.7527794
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300134600",
+        "amenity": "school",
+        "name": "Escuela 2 Alvarez Condarco",
+        "ref:cue": "300134600",
+        "isced:level": "0,1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300134600",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7527794%2C-57.9801159%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7527794%3B-57.9801159%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9859886,
+          -30.7599648
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300134400_25",
+        "amenity": "school",
+        "name": "Escuela 53 María Auxiliadora",
+        "ref:cue": "300134400",
+        "isced:level": "0;1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300134400",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7599648%2C-57.9859886%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7599648%3B-57.9859886%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.991923,
+          -30.768823
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300263600",
+        "amenity": "school",
+        "name": "Secundaria numero 12 \"Dominguito\"",
+        "ref:cue": "300263600",
+        "isced:level": "2;3",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300263600",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.768823%2C-57.991923%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.768823%3B-57.991923%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9991412,
+          -30.7612474
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300120800",
+        "amenity": "school",
+        "name": "Escuela 40 San Antonio",
+        "ref:cue": "300120800",
+        "isced:level": "1",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300120800",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7612474%2C-57.9991412%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7612474%3B-57.9991412%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9769474,
+          -30.73613
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_noCUE_28",
+        "amenity": "university",
+        "name": "Universidad Autónoma de Entre Ríos - Sede Chajarí",
+        "ref:cue": "",
+        "isced:level": "No especificado",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.73613%2C-57.9769474%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.73613%3B-57.9769474%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9996356,
+          -30.7611604
+        ]
+      },
+      "properties": {
+        "id": "chajari_control_300307000",
+        "amenity": "school",
+        "name": "Escuela Secundaria 15 San Antonio",
+        "ref:cue": "300307000",
+        "isced:level": "2;3",
+        "source": "Ministerio de Educación Argentina (dataset de control, reprocesado 2026 desde el relevamiento de Chajarí 2025)",
+        "official:legajo": "https://mapa.educacion.gob.ar/legajo/300307000",
+        "_overpass_verificacion": "https://overpass-turbo.eu/?Q=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%28%0A++nwr%5B%22amenity%22~%22school%7Ckindergarten%7Ccollege%7Cuniversity%22%5D%28around%3A400%2C-30.7611604%2C-57.9996356%29%3B%0A%29%3B%0Aout+center+tags%3B&C=-30.7611604%3B-57.9996356%3B17&R=",
+        "_nota": "CONTROL: escuela de Chajarí ya trabajada en el Encuentro 2025, reusada para validar el pipeline nuevo (Pergamino) antes del evento.",
+        "_prioridad_dia_evento": false
+      }
+    }
+  ]
+}
