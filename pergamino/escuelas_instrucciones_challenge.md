@@ -14,7 +14,7 @@ tarea automáticamente — no hay que tocar nada tarea por tarea.
 
 ### 🔍 Paso 1 — Verificar que no exista ya en OSM (OBLIGATORIO)
 
-👉 [Abrir verificación automática en Overpass Turbo]({{_overpass_verificacion}})
+👉 **Verificación automática en Overpass Turbo:** <{{_overpass_verificacion}}>
 (busca escuelas/jardines/institutos en un radio de 400m de este punto)
 
 - Si aparece una escuela que es claramente esta misma (nombre igual o muy similar):
@@ -70,6 +70,14 @@ confianza del nombre oficial — dejalo sin ese tag, no inventes un valor.)*
   que aparezcan primero durante el mapatón presencial) y dejar el resto en prioridad
   **Media/Baja** por defecto, para que se sigan completando después sin necesidad de un
   segundo challenge separado.
+- **⚠️ No envolver `{{_overpass_verificacion}}` en un link markdown `[texto](...)`**: el
+  frontend de MapRoulette le aplica `encodeURIComponent()` a cualquier `{{propiedad}}` que
+  esté dentro de la URL de un link markdown, y como esta propiedad ya viene URL-encodeada
+  desde el generador, queda codificada dos veces y el link se rompe. Se soluciona usando
+  autolink de Markdown (`<{{_overpass_verificacion}}>`, sin corchetes) en vez de
+  `[texto]({{_overpass_verificacion}})` — así no dispara ese preprocesamiento. Encontrado el
+  2026-09-21 subiendo el challenge real a MapRoulette (confirmado leyendo
+  `UsePropertyReplacement.js` del frontend).
 - **Verificación del link de Overpass**: ✅ probado y funcionando (2026-09-20) — carga la
   consulta, centra el mapa en el punto correcto y corre automáticamente. El servidor público
   de Overpass a veces da timeout por sobrecarga (pasó en el primer intento de prueba); si a
