@@ -71,24 +71,34 @@ reales, no priorizar tareas para un mapatón).
 
 ## Stages de `reconciliar.py`
 
-1. **`fetch_oficial_nacional(config)`** — WFS del Ministerio de Educación
-   (`mapa.educacion.gob.ar/geoserver/mapa_interactivo/ows`, capa
-   `mapa_interactivo:establecimientos`), filtrado con `cql_filter` según
-   `wfs_localidad_filter`. Portado de
-   `sandbox_claude/osm/core/argentina_schools_mapper_v2.py` (método
-   `get_wfs_data`/`get_chajari_schools`, ya probado contra Chajarí en 2025).
-   Normaliza cada feature a un registro común: `cue, nombre, sector, lat,
-   lon`. `sector` (público/privado del padrón) se mapea directo a
-   `operator:type` (`public`/`private`) en la salida.
-   - **Paginado por lotes**: usa `count`/`startIndex` del WFS (como ya hacía
-     el script viejo) en vez de un solo request — por ejemplo 200 features
-     por lote. Si un lote falla, reintenta con backoff corto; si sigue
-     fallando después de los reintentos, se sigue con los lotes restantes y
-     el resumen final deja explícito qué rango no se pudo traer (nunca
-     aborta todo el run por un lote puntual). Para las localidades de este
-     diseño (Pergamino ~130, Chajarí ~30) probablemente entra en un solo
-     lote, pero el mecanismo queda armado igual — es barato y evita el
-     supuesto de "siempre entra en un request".
+1. **`fetch_oficial_nacional(config)`** — **corregido tras verificar en vivo**
+   (2026-09-21): la fuente base no es el WFS informal, sino dos fuentes
+   nacionales combinadas, ambas confirmadas funcionando hoy:
+
+   - **1a. Padrón Oficial de Establecimientos Educativos** (XLSX, catálogo
+     `datos.gob.ar`, dataset `padron-oficial-de-establecimientos-educativos`
+     — resolver la URL del recurso más reciente vía la API CKAN
+     `package_show`, no hardcodear la fecha porque se actualiza ~6 veces al
+     año). Da **nombre oficial completo, sector (Estatal/Privado →
+     `public`/`private`), CUE (`Cueanexo`), domicilio, ámbito** — es la misma
+     fuente que ya generó `pergamino/padron_educacion.xlsx`. Header no está
+     en la fila 1: ubicarlo buscando la fila que contiene la columna
+     `Cueanexo` (robusto a que cambie el offset entre publicaciones). Sin
+     paginado posible (es un único archivo) — reintenta con backoff si la
+     descarga falla.
+   - **1b. WFS del Ministerio de Educación**
+     (`mapa.educacion.gob.ar/geoserver/mapa_interactivo/ows`, capa
+     `mapa_interactivo:establecimientos`, `cql_filter` sobre `localidad`) —
+     el padrón oficial **no trae coordenadas**; el WFS sí. Se cruza por
+     `Cueanexo`/`cueanexo` (mismo campo en ambas fuentes) para agregar
+     `lat, lon` a cada registro de 1a. Portado de
+     `sandbox_claude/osm/core/argentina_schools_mapper_v2.py` (ya probado
+     contra Chajarí en 2025). **Paginado por lotes** vía `count`/`startIndex`
+     (ej. 200 por lote); si un lote falla, reintenta con backoff corto y
+     sigue con el resto — nunca aborta todo el run por un lote puntual.
+   - Un registro del padrón (1a) sin match de geometría en el WFS (1b) no se
+     descarta: pasa a `verificar_terreno` con nota "sin coordenadas en WFS,
+     ubicar manualmente" — nunca se inventan coordenadas.
 
 2. **`fetch_enriquecimiento(config, registros)`** — si `locality.yml` define
    un `enriquecimiento`, importa ese adaptador de `adapters/` y lo aplica
@@ -116,7 +126,9 @@ reales, no priorizar tareas para un mapatón).
      un flag `overpass_inconcluso=true`, pero el run **continúa** con el
      resto (nunca se aborta todo por una consulta puntual).
 
-4. **`clasificar(registros)`** — por registro:
+4. **`clasificar(registros)`** — solo para registros con coordenadas (los
+   `verificar_terreno` de 1a sin geometría se excluyen de este paso, ya
+   están clasificados). Por registro:
    - CUE exacto encontrado en el resultado de Overpass → `confirmada`
    - Coincidencia de nombre/distancia pero no exacta → `a_revisar`
    - `overpass_inconcluso=true` → `a_revisar` con nota "timeout, verificar
